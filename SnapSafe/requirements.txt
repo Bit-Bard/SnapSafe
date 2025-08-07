@@ -1,0 +1,11 @@
+numpy
+pandas
+pytesseract
+opencv-python-headless
+pubchempy
+Pillow
+matplotlib
+pyzbar
+joblib
+streamlit
+spacy
