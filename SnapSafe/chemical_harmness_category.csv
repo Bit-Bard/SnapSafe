@@ -1,0 +1,625 @@
+chemical_name,harm_score_food,harm_score_cosmetic,harm_score_personal_care,harm_score_cleaning,harm_score_stationery,harm_score_household,harm_score_medicine,harm_score_others
+Paraben,90,75,70,30,10,40,65,50
+Glycerin,5,10,8,5,5,5,2,5
+Etidocaine,95,70,65,30,10,25,15,50
+Aqua,0,0,0,0,0,0,0,0
+Sodium Chloride,15,5,5,10,5,5,5,10
+Formaldehyde,95,85,80,60,40,70,75,85
+Benzophenone-3,75,45,40,20,15,25,30,35
+Triclosan,80,70,75,50,20,55,60,65
+Parabens,90,75,70,30,10,40,65,50
+Methylparaben,85,70,65,25,8,35,60,45
+Propylparaben,88,72,68,28,10,38,62,48
+Ethylparaben,86,71,66,26,9,36,61,46
+Butylparaben,90,75,70,30,12,40,65,50
+Sodium Lauryl Sulfate,60,55,60,25,15,30,40,35
+Sodium Laureth Sulfate,55,50,55,22,12,28,38,32
+Cocamidopropyl Betaine,25,20,25,15,8,12,18,20
+Cetyl Alcohol,10,8,10,5,3,5,8,6
+Stearyl Alcohol,8,6,8,4,2,4,6,5
+Cetearyl Alcohol,9,7,9,4,2,4,7,5
+Isopropyl Alcohol,45,35,40,20,25,30,25,40
+Ethyl Alcohol,40,30,35,18,22,28,20,35
+Benzyl Alcohol,35,25,30,15,18,22,18,28
+Phenoxyethanol,50,40,45,25,15,30,35,40
+Dimethicone,5,3,5,2,1,2,3,4
+Cyclopentasiloxane,20,15,18,8,5,10,12,15
+Cyclohexasiloxane,25,20,22,10,6,12,15,18
+Tocopherol,2,1,2,1,1,1,1,2
+Retinol,30,20,25,10,5,8,15,20
+Retinyl Palmitate,25,15,20,8,4,6,12,15
+Hydroquinone,85,80,75,45,25,50,70,65
+Kojic Acid,40,35,38,20,12,18,25,30
+Arbutin,15,12,15,8,5,6,10,12
+Niacinamide,8,5,6,3,2,3,4,5
+Salicylic Acid,35,30,32,18,10,15,20,25
+Glycolic Acid,45,40,42,25,15,20,28,35
+Lactic Acid,30,25,28,15,8,12,18,22
+Citric Acid,20,15,18,10,6,8,12,15
+Ascorbic Acid,10,8,10,5,3,4,6,8
+Hyaluronic Acid,2,1,2,1,1,1,1,2
+Collagen,3,2,3,1,1,1,2,2
+Peptides,5,3,4,2,1,2,3,4
+Caffeine,25,20,22,12,8,10,15,18
+Minoxidil,70,65,68,35,20,30,40,55
+Finasteride,80,75,78,40,25,35,45,60
+Zinc Oxide,5,3,4,2,1,2,3,4
+Titanium Dioxide,8,5,6,3,2,3,4,5
+Iron Oxides,10,6,8,4,3,4,6,7
+Mica,12,8,10,5,15,6,8,10
+Talc,40,35,38,20,25,22,30,32
+Kaolin,8,5,6,3,10,4,5,6
+Bentonite,10,6,8,4,12,5,6,8
+Silica,15,10,12,6,18,8,10,12
+Aluminum Hydroxide,35,30,32,18,12,20,25,28
+Aluminum Chloride,60,55,58,30,20,35,40,45
+Aluminum Zirconium,55,50,52,28,18,32,38,42
+Magnesium Stearate,12,8,10,5,6,6,8,10
+Calcium Carbonate,8,5,6,3,4,4,5,6
+Sodium Bicarbonate,5,3,4,2,2,3,3,4
+Potassium Sorbate,25,20,22,12,8,15,18,20
+Sodium Benzoate,30,25,28,15,10,18,22,25
+Benzalkonium Chloride,65,60,62,35,25,40,45,50
+Quaternium-15,75,70,72,40,30,45,55,60
+DMDM Hydantoin,70,65,68,38,28,42,50,55
+Imidazolidinyl Urea,60,55,58,32,22,35,42,45
+Diazolidinyl Urea,62,58,60,34,24,38,45,48
+Methylchloroisothiazolinone,80,75,78,45,35,50,60,65
+Methylisothiazolinone,78,72,75,42,32,48,58,62
+BHT,50,45,48,25,18,30,35,40
+BHA,55,50,52,28,20,32,38,42
+Propylene Glycol,25,20,22,12,8,15,18,20
+Butylene Glycol,20,15,18,10,6,12,15,18
+Pentylene Glycol,18,12,15,8,5,10,12,15
+Hexylene Glycol,22,18,20,12,8,15,18,20
+Dipropylene Glycol,28,22,25,15,10,18,22,25
+PEG-8,30,25,28,15,10,20,25,28
+PEG-40,35,30,32,18,12,22,28,30
+PEG-100,40,35,38,20,15,25,30,35
+Polysorbate 20,25,20,22,12,8,15,18,20
+Polysorbate 80,30,25,28,15,10,18,22,25
+Sorbitan Oleate,20,15,18,10,6,12,15,18
+Lecithin,8,5,6,3,2,4,5,6
+Cholesterol,12,8,10,5,3,6,8,10
+Ceramides,3,2,3,1,1,2,2,3
+Sphingolipids,5,3,4,2,1,3,4,5
+Lanolin,15,12,15,8,5,10,12,15
+Petrolatum,20,15,18,10,6,12,15,18
+Mineral Oil,25,20,22,12,8,15,18,20
+Jojoba Oil,3,2,3,1,1,2,2,3
+Argan Oil,2,1,2,1,1,1,1,2
+Coconut Oil,5,3,4,2,1,3,4,5
+Olive Oil,4,2,3,1,1,2,3,4
+Sweet Almond Oil,3,2,3,1,1,2,2,3
+Castor Oil,8,5,6,3,2,4,5,6
+Sesame Oil,6,4,5,2,2,3,4,5
+Sunflower Oil,4,3,4,2,1,2,3,4
+Safflower Oil,5,3,4,2,1,3,4,5
+Grapeseed Oil,3,2,3,1,1,2,2,3
+Rosehip Oil,4,2,3,1,1,2,3,4
+Tea Tree Oil,35,30,32,18,12,20,25,28
+Lavender Oil,20,15,18,10,6,12,15,18
+Eucalyptus Oil,40,35,38,20,12,25,30,32
+Lemon Oil,30,25,28,15,8,18,22,25
+Orange Oil,25,20,22,12,6,15,18,20
+Peppermint Oil,35,30,32,18,10,20,25,28
+Rosemary Oil,25,20,22,12,8,15,18,20
+Chamomile Extract,8,5,6,3,2,4,5,6
+Green Tea Extract,10,6,8,4,3,5,6,8
+Aloe Vera Extract,3,2,3,1,1,2,2,3
+Witch Hazel Extract,15,10,12,6,4,8,10,12
+Calendula Extract,5,3,4,2,1,3,4,5
+Licorice Extract,12,8,10,5,3,6,8,10
+Ginseng Extract,15,10,12,6,4,8,10,12
+Ginkgo Extract,18,12,15,8,5,10,12,15
+Vitamin E,3,2,3,1,1,2,2,3
+Vitamin C,8,5,6,3,2,4,5,6
+Vitamin A,25,20,22,12,6,15,18,20
+Vitamin D,15,10,12,6,4,8,10,12
+Vitamin B5,5,3,4,2,1,3,4,5
+Biotin,3,2,3,1,1,2,2,3
+Folic Acid,8,5,6,3,2,4,5,6
+Coenzyme Q10,10,6,8,4,3,5,6,8
+Alpha Lipoic Acid,12,8,10,5,3,6,8,10
+DMAE,30,25,28,15,8,18,22,25
+Idebenone,20,15,18,10,5,12,15,18
+Resveratrol,10,6,8,4,3,5,6,8
+Quercetin,12,8,10,5,3,6,8,10
+Anthocyanins,8,5,6,3,2,4,5,6
+Flavonoids,6,4,5,2,2,3,4,5
+Polyphenols,5,3,4,2,1,3,4,5
+Tannins,15,10,12,6,4,8,10,12
+Saponins,20,15,18,10,6,12,15,18
+Alkaloids,40,35,38,20,12,25,30,32
+Glycosides,25,20,22,12,8,15,18,20
+Terpenoids,30,25,28,15,10,18,22,25
+Steroids,45,40,42,25,15,28,35,38
+Phenolic Compounds,18,12,15,8,5,10,12,15
+Organic Acids,22,18,20,12,8,15,18,20
+Amino Acids,5,3,4,2,1,3,4,5
+Proteins,3,2,3,1,1,2,2,3
+Carbohydrates,2,1,2,1,1,1,1,2
+Lipids,8,5,6,3,2,4,5,6
+Fatty Acids,6,4,5,2,2,3,4,5
+Phospholipids,5,3,4,2,1,3,4,5
+Nucleotides,8,5,6,3,2,4,5,6
+Enzymes,10,6,8,4,3,5,6,8
+Hormones,60,55,58,30,20,35,40,45
+Neurotransmitters,70,65,68,35,25,40,45,50
+Prostaglandins,50,45,48,25,18,30,35,40
+Cytokines,40,35,38,20,12,25,30,32
+Growth Factors,35,30,32,18,10,20,25,28
+Antibiotics,75,70,72,40,30,45,50,55
+Antifungals,65,60,62,35,25,40,45,50
+Antivirals,70,65,68,38,28,42,48,52
+Anti-inflammatories,30,25,28,15,8,18,22,25
+Analgesics,40,35,38,20,12,25,30,32
+Anesthetics,80,75,78,45,35,50,55,60
+Sedatives,85,80,82,50,40,55,60,65
+Stimulants,60,55,58,30,20,35,40,45
+Depressants,75,70,72,40,30,45,50,55
+Hallucinogens,95,90,92,60,50,65,70,75
+Narcotics,90,85,88,55,45,60,65,70
+Barbiturates,88,82,85,52,42,58,62,68
+Benzodiazepines,85,80,82,50,40,55,60,65
+Opioids,92,88,90,58,48,62,68,72
+Amphetamines,87,82,85,52,42,58,62,68
+Cocaine,95,90,92,60,50,65,70,75
+Heroin,98,95,96,65,55,70,75,80
+Cannabis,70,65,68,35,25,40,45,50
+Nicotine,80,75,78,45,35,50,55,60
+Alcohol,65,60,62,35,25,40,45,50
+Methanol,90,85,88,55,45,60,65,70
+Ethylene Glycol,95,90,92,60,50,65,70,75
+Propylene Glycol,25,20,22,12,8,15,18,20
+Diethylene Glycol,85,80,82,50,40,55,60,65
+Triethylene Glycol,75,70,72,40,30,45,50,55
+Polyethylene Glycol,30,25,28,15,10,18,22,25
+Polypropylene Glycol,35,30,32,18,12,20,25,28
+Glycerol,5,3,4,2,1,3,4,5
+Sorbitol,15,10,12,6,4,8,10,12
+Mannitol,18,12,15,8,5,10,12,15
+Xylitol,12,8,10,5,3,6,8,10
+Erythritol,8,5,6,3,2,4,5,6
+Maltitol,20,15,18,10,6,12,15,18
+Isomalt,22,18,20,12,8,15,18,20
+Lactitol,25,20,22,12,8,15,18,20
+Sucralose,35,30,32,18,10,20,25,28
+Aspartame,45,40,42,25,15,28,32,35
+Acesulfame K,40,35,38,20,12,25,30,32
+Saccharin,50,45,48,25,18,30,35,40
+Stevia,8,5,6,3,2,4,5,6
+Monk Fruit,5,3,4,2,1,3,4,5
+Glucose,3,2,3,1,1,2,2,3
+Fructose,5,3,4,2,1,3,4,5
+Sucrose,4,2,3,1,1,2,3,4
+Lactose,6,4,5,2,2,3,4,5
+Maltose,4,3,4,2,1,2,3,4
+Dextrose,3,2,3,1,1,2,2,3
+Corn Syrup,8,5,6,3,2,4,5,6
+High Fructose Corn Syrup,12,8,10,5,3,6,8,10
+Honey,6,4,5,2,2,3,4,5
+Maple Syrup,5,3,4,2,1,3,4,5
+Agave Nectar,8,5,6,3,2,4,5,6
+Molasses,10,6,8,4,3,5,6,8
+Brown Sugar,4,3,4,2,1,2,3,4
+Raw Sugar,3,2,3,1,1,2,2,3
+Coconut Sugar,5,3,4,2,1,3,4,5
+Date Sugar,6,4,5,2,2,3,4,5
+Palm Sugar,7,5,6,3,2,4,5,6
+Beet Sugar,3,2,3,1,1,2,2,3
+Cane Sugar,3,2,3,1,1,2,2,3
+Turbinado Sugar,4,3,4,2,1,2,3,4
+Demerara Sugar,4,3,4,2,1,2,3,4
+Muscovado Sugar,5,3,4,2,1,3,4,5
+Castor Sugar,3,2,3,1,1,2,2,3
+Powdered Sugar,4,3,4,2,1,2,3,4
+Rock Sugar,3,2,3,1,1,2,2,3
+Vanilla Extract,15,10,12,6,4,8,10,12
+Almond Extract,20,15,18,10,6,12,15,18
+Lemon Extract,18,12,15,8,5,10,12,15
+Orange Extract,16,10,12,6,4,8,10,12
+Peppermint Extract,25,20,22,12,8,15,18,20
+Cinnamon Extract,22,18,20,12,8,15,18,20
+Ginger Extract,20,15,18,10,6,12,15,18
+Garlic Extract,18,12,15,8,5,10,12,15
+Onion Extract,16,10,12,6,4,8,10,12
+Turmeric Extract,12,8,10,5,3,6,8,10
+Black Pepper Extract,25,20,22,12,8,15,18,20
+Paprika Extract,15,10,12,6,4,8,10,12
+Chili Extract,30,25,28,15,10,18,22,25
+Capsaicin,40,35,38,20,12,25,30,32
+Menthol,35,30,32,18,10,20,25,28
+Camphor,60,55,58,30,20,35,40,45
+Eucalyptol,45,40,42,25,15,28,32,35
+Thymol,50,45,48,25,18,30,35,40
+Carvacrol,48,42,45,22,16,28,32,38
+Limonene,25,20,22,12,8,15,18,20
+Pinene,30,25,28,15,10,18,22,25
+Linalool,20,15,18,10,6,12,15,18
+Geraniol,22,18,20,12,8,15,18,20
+Citronellol,24,20,22,14,10,16,20,22
+Eugenol,35,30,32,18,12,20,25,28
+Isoeugenol,38,32,35,20,14,22,28,30
+Benzyl Acetate,28,22,25,15,10,18,22,25
+Benzyl Benzoate,32,28,30,18,12,20,25,28
+Benzyl Salicylate,30,25,28,15,10,18,22,25
+Coumarin,45,40,42,25,15,28,32,35
+Vanillin,15,10,12,6,4,8,10,12
+Ethyl Vanillin,18,12,15,8,5,10,12,15
+Cinnamaldehyde,35,30,32,18,10,20,25,28
+Citral,30,25,28,15,8,18,22,25
+Farnesol,25,20,22,12,6,15,18,20
+Hexyl Cinnamal,28,22,25,15,8,18,22,25
+Hydroxycitronellal,26,20,24,14,8,16,20,22
+Lilial,40,35,38,20,12,25,30,32
+Lyral,42,38,40,24,14,28,32,35
+Alpha-Isomethyl Ionone,35,30,32,18,10,20,25,28
+Amyl Cinnamal,32,28,30,18,10,22,26,28
+Anise Alcohol,30,25,28,15,8,18,22,25
+Benzyl Cinnamate,34,30,32,20,12,24,28,30
+Butylphenyl Methylpropional,38,32,35,22,14,26,30,32
+Cinnamyl Alcohol,36,30,34,20,12,24,28,30
+Citronellal,28,22,25,15,8,18,22,25
+Evernia Furfuracea,25,20,22,12,6,15,18,20
+Evernia Prunastri,26,22,24,14,8,16,20,22
+Hexyl Salicylate,30,25,28,15,10,18,22,25
+Isoeugenol,38,32,35,20,14,22,28,30
+Methyl Anthranilate,22,18,20,12,6,14,18,20
+Oakmoss Extract,28,24,26,16,10,20,24,26
+Tree Moss Extract,26,22,24,14,8,18,22,24
+Acetone,70,65,68,35,45,40,50,55
+Toluene,85,80,82,50,60,55,65,70
+Benzene,95,90,92,60,70,65,75,80
+Xylene,88,82,85,52,62,58,68,72
+Styrene,80,75,78,45,55,50,60,65
+Vinyl Chloride,92,88,90,58,68,62,72,75
+Methylene Chloride,90,85,88,55,65,60,70,75
+Chloroform,95,90,92,60,70,65,75,80
+Carbon Tetrachloride,98,95,96,65,75,70,80,85
+Perchloroethylene,88,82,85,52,62,58,68,72
+Trichloroethylene,90,85,88,55,65,60,70,75
+Methyl Ethyl Ketone,75,70,72,40,50,45,55,60
+Methyl Isobutyl Ketone,78,72,75,42,52,48,58,62
+Cyclohexanone,80,75,78,45,55,50,60,65
+Isophorone,82,78,80,48,58,52,62,68
+Acetaldehyde,70,65,68,35,45,40,50,55
+Formaldehyde,95,85,80,60,40,70,75,85
+Acrolein,88,82,85,52,62,58,68,72
+Crotonaldehyde,85,80,82,50,60,55,65,70
+Butyraldehyde,72,68,70,38,48,42,52,58
+Propionaldehyde,70,65,68,35,45,40,50,55
+Acetaldehyde,70,65,68,35,45,40,50,55
+Glyoxal,75,70,72,40,50,45,55,60
+Glutaraldehyde,85,80,82,50,60,55,65,70
+Succinaldehyde,78,72,75,42,52,48,58,62
+Malonaldehyde,80,75,78,45,55,50,60,65
+Adipaldehyde,76,70,74,40,50,46,56,62
+Phthalaldehyde,82,78,80,48,58,52,62,68
+Terephthalaldehyde,84,80,82,50,60,54,64,70
+Isophthalaldehyde,83,78,80,48,58,52,62,68
+Benzaldehyde,40,35,38,20,25,22,30,32
+Salicylaldehyde,45,40,42,25,30,28,35,38
+Vanillin,15,10,12,6,8,8,10,12
+Cinnamaldehyde,35,30,32,18,22,20,25,28
+Anisaldehyde,25,20,22,12,15,14,18,20
+Furfural,55,50,52,28,35,32,40,42
+Hydroxymethylfurfural,50,45,48,25,32,28,35,38
+Methylfurfural,52,48,50,28,35,30,38,40
+Ethylfurfural,54,50,52,30,38,32,40,42
+Furan,75,70,72,40,50,45,55,60
+Tetrahydrofuran,70,65,68,35,45,40,50,55
+Dioxane,85,80,82,50,60,55,65,70
+Morpholine,75,70,72,40,50,45,55,60
+Piperidine,78,72,75,42,52,48,58,62
+Pyrrolidine,76,70,74,40,50,46,56,62
+Imidazole,65,60,62,35,42,38,48,52
+Pyrazole,68,62,65,38,45,40,50,55
+Triazole,70,65,68,35,45,40,50,55
+Tetrazole,72,68,70,38,48,42,52,58
+Oxazole,66,60,64,36,43,39,49,53
+Thiazole,69,64,67,37,46,41,51,56
+Pyridine,80,75,78,45,55,50,60,65
+Quinoline,85,80,82,50,60,55,65,70
+Isoquinoline,86,82,84,52,62,56,66,72
+Pyrimidine,78,72,75,42,52,48,58,62
+Purine,75,70,72,40,50,45,55,60
+Adenine,20,15,18,10,12,12,15,18
+Guanine,22,18,20,12,15,14,18,20
+Cytosine,24,20,22,14,18,16,20,22
+Thymine,26,22,24,16,20,18,22,24
+Uracil,25,20,22,14,18,16,20,22
+Caffeine,25,20,22,12,15,14,18,20
+Theobromine,30,25,28,15,20,18,22,25
+Theophylline,35,30,32,18,25,22,28,30
+Nicotine,80,75,78,45,55,50,60,65
+Cotinine,65,60,62,35,42,38,48,52
+Anabasine,75,70,72,40,50,45,55,60
+Nornicotine,78,72,75,42,52,48,58,62
+Myosmine,70,65,68,35,45,40,50,55
+Nicotyrine,72,68,70,38,48,42,52,58
+Anatabine,74,70,72,40,50,44,54,60
+Methyl Nicotinate,45,40,42,25,30,28,35,38
+Ethyl Nicotinate,48,42,45,28,32,30,38,40
+Nicotinic Acid,25,20,22,12,15,14,18,20
+Nicotinamide,15,10,12,6,8,8,10,12
+NAD,18,12,15,8,10,10,12,15
+NADH,20,15,18,10,12,12,15,18
+NADP,22,18,20,12,15,14,18,20
+NADPH,24,20,22,14,18,16,20,22
+ATP,10,6,8,4,5,5,6,8
+ADP,8,5,6,3,4,4,5,6
+AMP,6,4,5,2,3,3,4,5
+GTP,12,8,10,5,6,6,8,10
+GDP,10,6,8,4,5,5,6,8
+GMP,8,5,6,3,4,4,5,6
+CTP,14,10,12,6,8,8,10,12
+CDP,12,8,10,5,6,6,8,10
+CMP,10,6,8,4,5,5,6,8
+UTP,16,12,15,8,10,10,12,15
+UDP,14,10,12,6,8,8,10,12
+UMP,12,8,10,5,6,6,8,10
+Creatine,8,5,6,3,4,4,5,6
+Creatinine,10,6,8,4,5,5,6,8
+Carnitine,5,3,4,2,2,3,3,4
+Acetyl-L-Carnitine,6,4,5,2,3,3,4,5
+Taurine,3,2,3,1,1,2,2,3
+Beta-Alanine,5,3,4,2,2,3,3,4
+Glutamine,3,2,3,1,1,2,2,3
+Arginine,4,3,4,2,1,2,3,4
+Lysine,4,3,4,2,1,2,3,4
+Histidine,5,3,4,2,2,3,3,4
+Phenylalanine,6,4,5,2,3,3,4,5
+Tyrosine,7,5,6,3,3,4,5,6
+Tryptophan,8,5,6,3,4,4,5,6
+Methionine,6,4,5,2,3,3,4,5
+Cysteine,7,5,6,3,3,4,5,6
+Serine,3,2,3,1,1,2,2,3
+Threonine,4,3,4,2,1,2,3,4
+Asparagine,3,2,3,1,1,2,2,3
+Aspartic Acid,5,3,4,2,2,3,3,4
+Glutamic Acid,6,4,5,2,3,3,4,5
+Proline,4,3,4,2,1,2,3,4
+Glycine,2,1,2,1,1,1,1,2
+Alanine,2,1,2,1,1,1,1,2
+Valine,3,2,3,1,1,2,2,3
+Leucine,3,2,3,1,1,2,2,3
+Isoleucine,3,2,3,1,1,2,2,3
+Selenium,40,35,38,20,25,22,30,32
+Chromium,35,30,32,18,22,20,25,28
+Molybdenum,25,20,22,12,15,14,18,20
+Vanadium,45,40,42,25,30,28,35,38
+Boron,30,25,28,15,20,18,22,25
+Silicon,15,10,12,6,25,8,10,12
+Germanium,50,45,48,25,35,30,38,40
+Arsenic,95,90,92,60,70,65,75,80
+Lead,98,95,96,65,75,70,80,85
+Mercury,98,95,96,65,75,70,80,85
+Cadmium,95,90,92,60,70,65,75,80
+Thallium,96,92,94,62,72,68,78,82
+Beryllium,92,88,90,58,68,62,72,75
+Aluminum,35,30,32,18,22,20,25,28
+Tin,40,35,38,20,25,22,30,32
+Antimony,85,80,82,50,60,55,65,70
+Bismuth,55,50,52,28,35,32,40,42
+Cobalt,60,55,58,30,40,35,45,48
+Nickel,70,65,68,35,45,40,50,55
+Copper,25,20,22,12,15,14,18,20
+Zinc,8,5,6,3,4,4,5,6
+Iron,10,6,8,4,5,5,6,8
+Manganese,20,15,18,10,12,12,15,18
+Magnesium,3,2,3,1,1,2,2,3
+Calcium,2,1,2,1,1,1,1,2
+Potassium,3,2,3,1,1,2,2,3
+Sodium,5,3,4,2,2,3,3,4
+Chlorine,40,35,38,20,25,22,30,32
+Fluorine,60,55,58,30,40,35,45,48
+Bromine,75,70,72,40,50,45,55,60
+Iodine,35,30,32,18,22,20,25,28
+Phosphorus,15,10,12,6,8,8,10,12
+Sulfur,20,15,18,10,12,12,15,18
+Nitrogen,25,20,22,12,15,14,18,20
+Carbon,2,1,2,1,1,1,1,2
+Hydrogen,1,1,1,1,1,1,1,1
+Oxygen,0,0,0,0,0,0,0,0
+Helium,5,3,4,2,2,3,3,4
+Neon,5,3,4,2,2,3,3,4
+Argon,8,5,6,3,4,4,5,6
+Krypton,10,6,8,4,5,5,6,8
+Xenon,12,8,10,5,6,6,8,10
+Radon,95,90,92,60,70,65,75,80
+Methane,30,25,28,15,20,18,22,25
+Ethane,25,20,22,12,15,14,18,20
+Propane,35,30,32,18,22,20,25,28
+Butane,40,35,38,20,25,22,30,32
+Pentane,45,40,42,25,30,28,35,38
+Hexane,55,50,52,28,35,32,40,42
+Heptane,60,55,58,30,40,35,45,48
+Octane,65,60,62,35,42,38,48,52
+Nonane,68,62,65,38,45,40,50,55
+Decane,70,65,68,35,45,40,50,55
+Ethene,40,35,38,20,25,22,30,32
+Propene,42,38,40,22,28,24,32,35
+Butene,45,40,42,25,30,28,35,38
+Pentene,48,42,45,28,32,30,38,40
+Hexene,52,48,50,28,35,30,38,40
+Acetylene,50,45,48,25,32,28,35,38
+Cyclopropane,55,50,52,28,35,32,40,42
+Cyclobutane,52,48,50,28,35,30,38,40
+Cyclopentane,48,42,45,28,32,30,38,40
+Cyclohexane,60,55,58,30,40,35,45,48
+Cycloheptane,62,58,60,32,42,36,46,50
+Cyclooctane,65,60,62,35,42,38,48,52
+Toluene,85,80,82,50,60,55,65,70
+Ethylbenzene,80,75,78,45,55,50,60,65
+Xylene,88,82,85,52,62,58,68,72
+Styrene,80,75,78,45,55,50,60,65
+Phenol,85,80,82,50,60,55,65,70
+Cresol,82,78,80,48,58,52,62,68
+Xylenol,84,80,82,50,60,54,64,70
+Catechol,75,70,72,40,50,45,55,60
+Resorcinol,78,72,75,42,52,48,58,62
+Hydroquinone,85,80,75,45,25,50,70,65
+Quinone,80,75,78,45,55,50,60,65
+Aniline,88,82,85,52,62,58,68,72
+Toluidine,85,80,82,50,60,55,65,70
+Nitrobenzene,90,85,88,55,65,60,70,75
+Nitrotoluene,88,82,85,52,62,58,68,72
+Dinitrobenzene,92,88,90,58,68,62,72,75
+TNT,95,90,92,60,70,65,75,80
+Picric Acid,94,90,92,58,68,62,72,76
+Chlorobenzene,82,78,80,48,58,52,62,68
+Dichlorobenzene,85,80,82,50,60,55,65,70
+Trichlorobenzene,88,82,85,52,62,58,68,72
+Hexachlorobenzene,95,90,92,60,70,65,75,80
+Fluorobenzene,75,70,72,40,50,45,55,60
+Bromobenzene,78,72,75,42,52,48,58,62
+Iodobenzene,80,75,78,45,55,50,60,65
+Benzoic Acid,25,20,22,12,15,14,18,20
+Salicylic Acid,35,30,32,18,10,15,20,25
+Aspirin,40,35,38,20,12,25,30,32
+Phthalic Acid,45,40,42,25,30,28,35,38
+Isophthalic Acid,42,38,40,24,28,26,32,35
+Terephthalic Acid,40,35,38,20,25,22,30,32
+Benzenesulfonic Acid,60,55,58,30,40,35,45,48
+Toluenesulfonic Acid,58,52,55,32,38,34,42,46
+Naphthalene,75,70,72,40,50,45,55,60
+Anthracene,78,72,75,42,52,48,58,62
+Phenanthrene,80,75,78,45,55,50,60,65
+Pyrene,82,78,80,48,58,52,62,68
+Benzo[a]pyrene,95,90,92,60,70,65,75,80
+Chrysene,85,80,82,50,60,55,65,70
+Fluoranthene,80,75,78,45,55,50,60,65
+Acenaphthene,75,70,72,40,50,45,55,60
+Fluorene,72,68,70,38,48,42,52,58
+Biphenyl,70,65,68,35,45,40,50,55
+PCB,95,90,92,60,70,65,75,80
+DDT,92,88,90,58,68,62,72,75
+DDE,90,85,88,55,65,60,70,75
+DDD,88,82,85,52,62,58,68,72
+Chlordane,95,90,92,60,70,65,75,80
+Heptachlor,94,90,92,58,68,62,72,76
+Aldrin,96,92,94,62,72,68,78,82
+Dieldrin,95,90,92,60,70,65,75,80
+Endrin,94,90,92,58,68,62,72,76
+Toxaphene,92,88,90,58,68,62,72,75
+Lindane,90,85,88,55,65,60,70,75
+Mirex,96,92,94,62,72,68,78,82
+Kepone,94,90,92,58,68,62,72,76
+Endosulfan,88,82,85,52,62,58,68,72
+Methoxychlor,75,70,72,40,50,45,55,60
+TCDD,98,95,96,65,75,70,80,85
+Agent Orange,96,92,94,62,72,68,78,82
+Glyphosate,60,55,58,30,40,35,45,48
+Atrazine,70,65,68,35,45,40,50,55
+Alachlor,75,70,72,40,50,45,55,60
+Metolachlor,72,68,70,38,48,42,52,58
+Acetochlor,74,70,72,40,50,44,54,60
+Cyanazine,78,72,75,42,52,48,58,62
+Simazine,68,62,65,38,45,40,50,55
+Propazine,70,65,68,35,45,40,50,55
+Metribuzin,65,60,62,35,42,38,48,52
+Bentazon,62,58,60,32,42,36,46,50
+Dicamba,68,62,65,38,45,40,50,55
+MCPA,70,65,68,35,45,40,50,55
+Mecoprop,72,68,70,38,48,42,52,58
+Silvex,74,70,72,40,50,44,54,60
+Dalapon,66,60,64,36,43,39,49,53
+TCA,65,60,62,35,42,38,48,52
+Paraquat,90,85,88,55,65,60,70,75
+Diquat,88,82,85,52,62,58,68,72
+Diuron,75,70,72,40,50,45,55,60
+Linuron,78,72,75,42,52,48,58,62
+Chlorotoluron,76,70,74,40,50,46,56,62
+Isoproturon,74,70,72,40,50,44,54,60
+Diazinon,82,78,80,48,58,52,62,68
+Malathion,75,70,72,40,50,45,55,60
+Parathion,95,90,92,60,70,65,75,80
+Chlorpyrifos,85,80,82,50,60,55,65,70
+Dursban,84,80,82,50,60,54,64,70
+Carbaryl,70,65,68,35,45,40,50,55
+Aldicarb,92,88,90,58,68,62,72,75
+Carbofuran,88,82,85,52,62,58,68,72
+Oxamyl,85,80,82,50,60,55,65,70
+Methomyl,82,78,80,48,58,52,62,68
+Thiodicarb,80,75,78,45,55,50,60,65
+Propoxur,78,72,75,42,52,48,58,62
+Bendiocarb,76,70,74,40,50,46,56,62
+Aminocarb,74,70,72,40,50,44,54,60
+Pirimicarb,72,68,70,38,48,42,52,58
+Methiocarb,75,70,72,40,50,45,55,60
+Warfarin,85,80,82,50,60,55,65,70
+Brodifacoum,92,88,90,58,68,62,72,75
+Bromadiolone,90,85,88,55,65,60,70,75
+Difenacoum,88,82,85,52,62,58,68,72
+Coumatetralyl,85,80,82,50,60,55,65,70
+Chlorophacinone,82,78,80,48,58,52,62,68
+Diphacinone,80,75,78,45,55,50,60,65
+Pindone,78,72,75,42,52,48,58,62
+Sodium Fluoroacetate,95,90,92,60,70,65,75,80
+Strychnine,95,90,92,60,70,65,75,80
+Thallium Sulfate,96,92,94,62,72,68,78,82
+Zinc Phosphide,88,82,85,52,62,58,68,72
+Aluminum Phosphide,90,85,88,55,65,60,70,75
+Calcium Phosphide,85,80,82,50,60,55,65,70
+Methyl Bromide,92,88,90,58,68,62,72,75
+Ethylene Dibromide,94,90,92,58,68,62,72,76
+Dibromochloropropane,95,90,92,60,70,65,75,80
+Chloropicrin,88,82,85,52,62,58,68,72
+Methyl Isocyanate,96,92,94,62,72,68,78,82
+Phosgene,98,95,96,65,75,70,80,85
+Hydrogen Cyanide,98,95,96,65,75,70,80,85
+Sodium Cyanide,96,92,94,62,72,68,78,82
+Potassium Cyanide,96,92,94,62,72,68,78,82
+Calcium Cyanide,94,90,92,58,68,62,72,76
+Hydrogen Sulfide,85,80,82,50,60,55,65,70
+Sulfur Dioxide,75,70,72,40,50,45,55,60
+Ammonia,65,60,62,35,42,38,48,52
+Chlorine Gas,90,85,88,55,65,60,70,75
+Fluorine Gas,95,90,92,60,70,65,75,80
+Bromine Gas,88,82,85,52,62,58,68,72
+Iodine Gas,80,75,78,45,55,50,60,65
+Nitrogen Dioxide,82,78,80,48,58,52,62,68
+Nitric Oxide,78,72,75,42,52,48,58,62
+Carbon Monoxide,92,88,90,58,68,62,72,75
+Carbon Dioxide,15,10,12,6,8,8,10,12
+Methyl Mercaptan,75,70,72,40,50,45,55,60
+Ethyl Mercaptan,72,68,70,38,48,42,52,58
+Dimethyl Sulfide,68,62,65,38,45,40,50,55
+Diethyl Sulfide,70,65,68,35,45,40,50,55
+Thiophene,74,70,72,40,50,44,54,60
+Benzothiophene,76,70,74,40,50,46,56,62
+Dibenzothiophene,78,72,75,42,52,48,58,62
+Thiophenol,80,75,78,45,55,50,60,65
+Benzyl Mercaptan,75,70,72,40,50,45,55,60
+Mustard Gas,98,95,96,65,75,70,80,85
+Lewisite,96,92,94,62,72,68,78,82
+Sarin,98,95,96,65,75,70,80,85
+Tabun,97,94,95,63,73,69,79,83
+Soman,98,95,96,64,74,70,80,84
+VX,99,96,97,66,76,72,82,86
+Novichok,99,97,98,67,77,73,83,87
+Ricin,96,92,94,62,72,68,78,82
+Abrin,94,90,92,58,68,62,72,76
+Botulinum Toxin,98,95,96,65,75,70,80,85
+Tetrodotoxin,96,92,94,62,72,68,78,82
+Saxitoxin,95,90,92,60,70,65,75,80
+Palytoxin,97,94,95,63,73,69,79,83
+Maitotoxin,98,95,96,64,74,70,80,84
+Brevetoxin,94,90,92,58,68,62,72,76
+Ciguatoxin,95,90,92,60,70,65,75,80
+Okadaic Acid,88,82,85,52,62,58,68,72
+Domoic Acid,90,85,88,55,65,60,70,75
+Microcystin,92,88,90,58,68,62,72,75
+Cylindrospermopsin,89,84,87,54,64,59,69,74
+Nodularin,90,85,88,55,65,60,70,75
+Anatoxin-a,88,82,85,52,62,58,68,72
+Aflatoxin B1,95,90,92,60,70,65,75,80
+Aflatoxin G1,94,90,92,58,68,62,72,76
+Ochratoxin A,92,88,90,58,68,62,72,75
+Fumonisin B1,88,82,85,52,62,58,68,72
+Deoxynivalenol,85,80,82,50,60,55,65,70
+T-2 Toxin,90,85,88,55,65,60,70,75
+Zearalenone,82,78,80,48,58,52,62,68
+Patulin,78,72,75,42,52,48,58,62
+Ergot Alkaloids,86,82,84,52,62,56,66,72

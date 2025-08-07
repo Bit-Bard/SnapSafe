@@ -1,0 +1,834 @@
+ingredients,category
+"""Caprylyl Glucoside", Octyl Glucoside, Decyl Glucoside, Lauryl Glucoside," Coco Glucoside""",personal_care
+"""Polysorbate 20", Polysorbate 40, Polysorbate 60, Polysorbate 80," Polysorbate 85""",cleaning
+"""Polysorbate 85", Polysorbate 20, Polysorbate 80, Polysorbate 40," Polysorbate 60""",cleaning
+"""Polysorbate 60", Polysorbate 80, Polysorbate 85, Polysorbate 20," Polysorbate 40""",cleaning
+"""Polysorbate 40", Polysorbate 60, Polysorbate 20, Polysorbate 85," Polysorbate 80""",cleaning
+"""Polysorbate 80", Polysorbate 85, Polysorbate 40, Polysorbate 60," Polysorbate 20""",cleaning
+"""Sodium Dodecyl Sulfate", Ammonium Dodecyl Sulfate, Magnesium Dodecyl Sulfate, Potassium Dodecyl Sulfate," Calcium Dodecyl Sulfate""",cleaning
+"""Calcium Dodecyl Sulfate", Sodium Dodecyl Sulfate, Potassium Dodecyl Sulfate, Ammonium Dodecyl Sulfate," Magnesium Dodecyl Sulfate""",cleaning
+"""Magnesium Dodecyl Sulfate", Potassium Dodecyl Sulfate, Calcium Dodecyl Sulfate, Sodium Dodecyl Sulfate," Ammonium Dodecyl Sulfate""",cleaning
+"""Ammonium Dodecyl Sulfate", Magnesium Dodecyl Sulfate, Sodium Dodecyl Sulfate, Calcium Dodecyl Sulfate," Potassium Dodecyl Sulfate""",cleaning
+"""Potassium Dodecyl Sulfate", Calcium Dodecyl Sulfate, Ammonium Dodecyl Sulfate, Magnesium Dodecyl Sulfate," Sodium Dodecyl Sulfate""",cleaning
+"""Tetrasodium EDTA", Disodium EDTA, Calcium Disodium EDTA, Trisodium EDTA," Dipotassium EDTA""",cleaning
+"""Dipotassium EDTA", Tetrasodium EDTA, Trisodium EDTA, Disodium EDTA," Calcium Disodium EDTA""",cleaning
+"""Calcium Disodium EDTA", Trisodium EDTA, Dipotassium EDTA, Tetrasodium EDTA," Disodium EDTA""",cleaning
+"""Disodium EDTA", Calcium Disodium EDTA, Tetrasodium EDTA, Dipotassium EDTA," Trisodium EDTA""",cleaning
+"""Trisodium EDTA", Dipotassium EDTA, Disodium EDTA, Calcium Disodium EDTA," Tetrasodium EDTA""",cleaning
+"""Thiourea Dioxide", Sodium Bisulfite, Sodium Metabisulfite, Potassium Metabisulfite," Sodium Sulfite""",cleaning
+"""Sodium Sulfite", Thiourea Dioxide, Potassium Metabisulfite, Sodium Bisulfite," Sodium Metabisulfite""",cleaning
+"""Sodium Metabisulfite", Potassium Metabisulfite, Sodium Sulfite, Thiourea Dioxide," Sodium Bisulfite""",cleaning
+"""Sodium Bisulfite", Sodium Metabisulfite, Thiourea Dioxide, Sodium Sulfite," Potassium Metabisulfite""",cleaning
+"""Potassium Metabisulfite", Sodium Sulfite, Sodium Bisulfite, Sodium Metabisulfite," Thiourea Dioxide""",cleaning
+"""Magnesium Stearate", Calcium Stearate, Sodium Stearate, Potassium Stearate," Aluminum Stearate""",stationery
+"""Aluminum Stearate", Magnesium Stearate, Potassium Stearate, Calcium Stearate," Sodium Stearate""",stationery
+"""Sodium Stearate", Potassium Stearate, Aluminum Stearate, Magnesium Stearate," Calcium Stearate""",stationery
+"""Calcium Stearate", Sodium Stearate, Magnesium Stearate, Aluminum Stearate," Potassium Stearate""",stationery
+"""Potassium Stearate", Aluminum Stearate, Calcium Stearate, Sodium Stearate," Magnesium Stearate""",stationery
+"""Methyl Cellulose", Ethyl Cellulose, Hydroxypropyl Cellulose, Hydroxyethyl Cellulose," Carboxymethyl Cellulose""",stationery
+"""Carboxymethyl Cellulose", Methyl Cellulose, Hydroxyethyl Cellulose, Ethyl Cellulose," Hydroxypropyl Cellulose""",stationery
+"""Hydroxypropyl Cellulose", Hydroxyethyl Cellulose, Carboxymethyl Cellulose, Methyl Cellulose," Ethyl Cellulose""",stationery
+"""Ethyl Cellulose", Hydroxypropyl Cellulose, Methyl Cellulose, Carboxymethyl Cellulose," Hydroxyethyl Cellulose""",stationery
+"""Hydroxyethyl Cellulose", Carboxymethyl Cellulose, Ethyl Cellulose, Hydroxypropyl Cellulose," Methyl Cellulose""",stationery
+"""Polymethyl Methacrylate", Polyethyl Methacrylate, Polybutyl Methacrylate, Poly(methyl acrylate)," Polyacrylic Acid""",stationery
+"""Polyacrylic Acid", Polymethyl Methacrylate, Poly(methyl acrylate), Polyethyl Methacrylate," Polybutyl Methacrylate""",stationery
+"""Polybutyl Methacrylate", Poly(methyl acrylate), Polyacrylic Acid, Polymethyl Methacrylate," Polyethyl Methacrylate""",stationery
+"""Polyethyl Methacrylate", Polybutyl Methacrylate, Polymethyl Methacrylate, Polyacrylic Acid," Poly(methyl acrylate)""",stationery
+"""Poly(methyl acrylate)", Polyacrylic Acid, Polyethyl Methacrylate, Polybutyl Methacrylate," Polymethyl Methacrylate""",stationery
+"""Carbon Black", Ivory Black, Lamp Black, Bone Black," Mars Black""",stationery
+"""Mars Black", Carbon Black, Bone Black, Ivory Black," Lamp Black""",stationery
+"""Lamp Black", Bone Black, Mars Black, Carbon Black," Ivory Black""",stationery
+"""Ivory Black", Lamp Black, Carbon Black, Mars Black," Bone Black""",stationery
+"""Bone Black", Mars Black, Ivory Black, Lamp Black," Carbon Black""",stationery
+"""Hydrocarbons", Aliphatic Solvents, Aromatic Solvents, Ketones," Esters""",household
+"""Esters", Hydrocarbons, Ketones, Aliphatic Solvents," Aromatic Solvents""",household
+"""Aromatic Solvents", Ketones, Esters, Hydrocarbons," Aliphatic Solvents""",household
+"""Aliphatic Solvents", Aromatic Solvents, Hydrocarbons, Esters," Ketones""",household
+"""Ketones", Esters, Aliphatic Solvents, Aromatic Solvents," Hydrocarbons""",household
+"""Organophosphates", Organochlorines, Carbamates, Pyrethroids," Neonicotinoids""",household
+"""Neonicotinoids", Organophosphates, Pyrethroids, Organochlorines," Carbamates""",household
+"""Carbamates", Pyrethroids, Neonicotinoids, Organophosphates," Organochlorines""",household
+"""Organochlorines", Carbamates, Organophosphates, Neonicotinoids," Pyrethroids""",household
+"""Pyrethroids", Neonicotinoids, Organochlorines, Carbamates," Organophosphates""",household
+"""Methyl Anthranilate", Benzyl Benzoate, Cinnamyl Alcohol, Citronellol," Geraniol""",household
+"""Geraniol", Methyl Anthranilate, Citronellol, Benzyl Benzoate," Cinnamyl Alcohol""",household
+"""Cinnamyl Alcohol", Citronellol, Geraniol, Methyl Anthranilate," Benzyl Benzoate""",household
+"""Benzyl Benzoate", Cinnamyl Alcohol, Methyl Anthranilate, Geraniol," Citronellol""",household
+"""Citronellol", Geraniol, Benzyl Benzoate, Cinnamyl Alcohol," Methyl Anthranilate""",household
+"""Silicone Oil", Mineral Oil, Synthetic Oil, Vegetable Oil," Animal Fat""",household
+"""Animal Fat", Silicone Oil, Vegetable Oil, Mineral Oil," Synthetic Oil""",household
+"""Synthetic Oil", Vegetable Oil, Animal Fat, Silicone Oil," Mineral Oil""",household
+"""Mineral Oil", Synthetic Oil, Silicone Oil, Animal Fat," Vegetable Oil""",household
+"""Vegetable Oil", Animal Fat, Mineral Oil, Synthetic Oil," Silicone Oil""",household
+"""Phenobarbital", Pentobarbital, Secobarbital, Amobarbital," Butalbital""",medicine
+"""Butalbital", Phenobarbital, Amobarbital, Pentobarbital," Secobarbital""",medicine
+"""Secobarbital", Amobarbital, Butalbital, Phenobarbital," Pentobarbital""",medicine
+"""Pentobarbital", Secobarbital, Phenobarbital, Butalbital," Amobarbital""",medicine
+"""Amobarbital", Butalbital, Pentobarbital, Secobarbital," Phenobarbital""",medicine
+"""Chlorpromazine", Haloperidol, Fluphenazine, Risperidone," Olanzapine""",medicine
+"""Olanzapine", Chlorpromazine, Risperidone, Haloperidol," Fluphenazine""",medicine
+"""Fluphenazine", Risperidone, Olanzapine, Chlorpromazine," Haloperidol""",medicine
+"""Haloperidol", Fluphenazine, Chlorpromazine, Olanzapine," Risperidone""",medicine
+"""Risperidone", Olanzapine, Haloperidol, Fluphenazine," Chlorpromazine""",medicine
+"""Lithium Carbonate", Lithium Citrate, Divalproex, Carbamazepine," Lamotrigine""",medicine
+"""Lamotrigine", Lithium Carbonate, Carbamazepine, Lithium Citrate," Divalproex""",medicine
+"""Divalproex", Carbamazepine, Lamotrigine, Lithium Carbonate," Lithium Citrate""",medicine
+"""Lithium Citrate", Divalproex, Lithium Carbonate, Lamotrigine," Carbamazepine""",medicine
+"""Carbamazepine", Lamotrigine, Lithium Citrate, Divalproex," Lithium Carbonate""",medicine
+"""Donepezil", Rivastigmine, Galantamine, Memantine," Tacrine""",medicine
+"""Tacrine", Donepezil, Memantine, Rivastigmine," Galantamine""",medicine
+"""Donepezil", Rivastigmine, Galantamine, Memantine," Tacrine""",medicine
+"""Tacrine", Donepezil, Memantine, Rivastigmine," Galantamine""",medicine
+"""Galantamine", Memantine, Tacrine, Donepezil," Rivastigmine""",medicine
+"""Rivastigmine", Galantamine, Donepezil, Tacrine," Memantine""",medicine
+"""Memantine", Tacrine, Rivastigmine, Galantamine," Donepezil""",medicine
+"""Levodopa", Carbidopa, Entacapone, Pramipexole," Ropinirole""",medicine
+"""Ropinirole", Levodopa, Pramipexole, Carbidopa," Entacapone""",medicine
+"""Entacapone", Pramipexole, Ropinirole, Levodopa," Carbidopa""",medicine
+"""Carbidopa", Entacapone, Levodopa, Ropinirole," Pramipexole""",medicine
+"""Pramipexole", Ropinirole, Carbidopa, Entacapone," Levodopa""",medicine
+"""Ginseng Extract", Ginkgo Biloba, Echinacea, St. John's Wort," Saw Palmetto""",medicine
+"""Saw Palmetto", Ginseng Extract, St. John's Wort, Ginkgo Biloba," Echinacea""",medicine
+"""Echinacea", St. John's Wort, Saw Palmetto, Ginseng Extract," Ginkgo Biloba""",medicine
+"""Ginkgo Biloba", Echinacea, Ginseng Extract, Saw Palmetto," St. John's Wort""",medicine
+"""St. John's Wort", Saw Palmetto, Ginkgo Biloba, Echinacea," Ginseng Extract""",medicine
+"""Glucosamine", Chondroitin, MSM, Hyaluronic Acid," Collagen""",medicine
+"""Collagen", Glucosamine, Hyaluronic Acid, Chondroitin," MSM""",medicine
+"""MSM", Hyaluronic Acid, Collagen, Glucosamine," Chondroitin""",medicine
+"""Chondroitin", MSM, Glucosamine, Collagen," Hyaluronic Acid""",medicine
+"""Hyaluronic Acid", Collagen, Chondroitin, MSM," Glucosamine""",medicine
+"""Mannitol", Sorbitol, Xylitol, Erythritol," Maltitol""",food
+"""Maltitol", Mannitol, Erythritol, Sorbitol," Xylitol""",food
+"""Xylitol", Erythritol, Maltitol, Mannitol," Sorbitol""",food
+"""Sorbitol", Xylitol, Mannitol, Maltitol," Erythritol""",food
+"""Erythritol", Maltitol, Sorbitol, Xylitol," Mannitol""",food
+"""Sodium Benzoate", Potassium Benzoate, Calcium Benzoate, Benzoic Acid," Sodium Metabisulfite""",food
+"""Sodium Metabisulfite", Sodium Benzoate, Benzoic Acid, Potassium Benzoate," Calcium Benzoate""",food
+"""Calcium Benzoate", Benzoic Acid, Sodium Metabisulfite, Sodium Benzoate," Potassium Benzoate""",food
+"""Potassium Benzoate", Calcium Benzoate, Sodium Benzoate, Sodium Metabisulfite," Benzoic Acid""",food
+"""Benzoic Acid", Sodium Metabisulfite, Potassium Benzoate, Calcium Benzoate," Sodium Benzoate""",food
+"""Calcium Sulfate", Magnesium Sulfate, Potassium Sulfate, Sodium Sulfate," Ammonium Sulfate""",food
+"""Ammonium Sulfate", Calcium Sulfate, Sodium Sulfate, Magnesium Sulfate," Potassium Sulfate""",food
+"""Potassium Sulfate", Sodium Sulfate, Ammonium Sulfate, Calcium Sulfate," Magnesium Sulfate""",food
+"""Magnesium Sulfate", Potassium Sulfate, Calcium Sulfate, Ammonium Sulfate," Sodium Sulfate""",food
+"""Sodium Sulfate", Ammonium Sulfate, Magnesium Sulfate, Potassium Sulfate," Calcium Sulfate""",food
+"""Sodium Citrate", Potassium Citrate, Calcium Citrate, Magnesium Citrate," Ammonium Citrate""",food
+"""Ammonium Citrate", Sodium Citrate, Magnesium Citrate, Potassium Citrate," Calcium Citrate""",food
+"""Calcium Citrate", Magnesium Citrate, Ammonium Citrate, Sodium Citrate," Potassium Citrate""",food
+"""Potassium Citrate", Calcium Citrate, Sodium Citrate, Ammonium Citrate," Magnesium Citrate""",food
+"""Magnesium Citrate", Ammonium Citrate, Potassium Citrate, Calcium Citrate," Sodium Citrate""",food
+"""Monosodium Phosphate", Disodium Phosphate, Trisodium Phosphate, Sodium Polyphosphate," Sodium Hexametaphosphate""",food
+"""Sodium Hexametaphosphate", Monosodium Phosphate, Sodium Polyphosphate, Disodium Phosphate," Trisodium Phosphate""",food
+"""Trisodium Phosphate", Sodium Polyphosphate, Sodium Hexametaphosphate, Monosodium Phosphate," Disodium Phosphate""",food
+"""Disodium Phosphate", Trisodium Phosphate, Monosodium Phosphate, Sodium Hexametaphosphate," Sodium Polyphosphate""",food
+"""Sodium Polyphosphate", Sodium Hexametaphosphate, Disodium Phosphate, Trisodium Phosphate," Monosodium Phosphate""",food
+"""Corn Starch", Potato Starch, Wheat Starch, Rice Starch," Tapioca Starch""",food
+"""Tapioca Starch", Corn Starch, Rice Starch, Potato Starch," Wheat Starch""",food
+"""Wheat Starch", Rice Starch, Tapioca Starch, Corn Starch," Potato Starch""",food
+"""Potato Starch", Wheat Starch, Corn Starch, Tapioca Starch," Rice Starch""",food
+"""Rice Starch", Tapioca Starch, Potato Starch, Wheat Starch," Corn Starch""",food
+"""Alpha Tocopherol", Beta Tocopherol, Gamma Tocopherol, Delta Tocopherol," Mixed Tocopherols""",food
+"""Mixed Tocopherols", Alpha Tocopherol, Delta Tocopherol, Beta Tocopherol," Gamma Tocopherol""",food
+"""Gamma Tocopherol", Delta Tocopherol, Mixed Tocopherols, Alpha Tocopherol," Beta Tocopherol""",food
+"""Beta Tocopherol", Gamma Tocopherol, Alpha Tocopherol, Mixed Tocopherols," Delta Tocopherol""",food
+"""Delta Tocopherol", Mixed Tocopherols, Beta Tocopherol, Gamma Tocopherol," Alpha Tocopherol""",food
+"""Retinyl Acetate", Retinyl Palmitate, Beta Carotene, Lycopene," Lutein""",food
+"""Lutein", Retinyl Acetate, Lycopene, Retinyl Palmitate," Beta Carotene""",food
+"""Beta Carotene", Lycopene, Lutein, Retinyl Acetate," Retinyl Palmitate""",food
+"""Retinyl Palmitate", Beta Carotene, Retinyl Acetate, Lutein," Lycopene""",food
+"""Lycopene", Lutein, Retinyl Palmitate, Beta Carotene," Retinyl Acetate""",food
+"""Cholecalciferol", Ergocalciferol, Calcitriol, Alfacalcidol," Paricalcitol""",food
+"""Paricalcitol", Cholecalciferol, Alfacalcidol, Ergocalciferol," Calcitriol""",food
+"""Calcitriol", Alfacalcidol, Paricalcitol, Cholecalciferol," Ergocalciferol""",food
+"""Ergocalciferol", Calcitriol, Cholecalciferol, Paricalcitol," Alfacalcidol""",food
+"""Alfacalcidol", Paricalcitol, Ergocalciferol, Calcitriol," Cholecalciferol""",food
+"""Glyceryl Monostearate", Glyceryl Distearate, Polysorbate 60, Sorbitan Monostearate," Lecithin""",cosmetic
+"""Lecithin", Glyceryl Monostearate, Sorbitan Monostearate, Glyceryl Distearate," Polysorbate 60""",cosmetic
+"""Polysorbate 60", Sorbitan Monostearate, Lecithin, Glyceryl Monostearate," Glyceryl Distearate""",cosmetic
+"""Glyceryl Distearate", Polysorbate 60, Glyceryl Monostearate, Lecithin," Sorbitan Monostearate""",cosmetic
+"""Sorbitan Monostearate", Lecithin, Glyceryl Distearate, Polysorbate 60," Glyceryl Monostearate""",cosmetic
+"""Phenyl Trimethicone", Cyclopentasiloxane, Dimethiconol, Amodimethicone," Cyclohexasiloxane""",cosmetic
+"""Cyclohexasiloxane", Phenyl Trimethicone, Amodimethicone, Cyclopentasiloxane," Dimethiconol""",cosmetic
+"""Dimethiconol", Amodimethicone, Cyclohexasiloxane, Phenyl Trimethicone," Cyclopentasiloxane""",cosmetic
+"""Cyclopentasiloxane", Dimethiconol, Phenyl Trimethicone, Cyclohexasiloxane," Amodimethicone""",cosmetic
+"""Amodimethicone", Cyclohexasiloxane, Cyclopentasiloxane, Dimethiconol," Phenyl Trimethicone""",cosmetic
+"""Sodium Hyaluronate", Hydrolyzed Hyaluronic Acid, Potassium Hyaluronate, Hyaluronic Acid," Sodium Acetylated Hyaluronate""",cosmetic
+"""Sodium Acetylated Hyaluronate", Sodium Hyaluronate, Hyaluronic Acid, Hydrolyzed Hyaluronic Acid," Potassium Hyaluronate""",cosmetic
+"""Potassium Hyaluronate", Hyaluronic Acid, Sodium Acetylated Hyaluronate, Sodium Hyaluronate," Hydrolyzed Hyaluronic Acid""",cosmetic
+"""Hydrolyzed Hyaluronic Acid", Potassium Hyaluronate, Sodium Hyaluronate, Sodium Acetylated Hyaluronate," Hyaluronic Acid""",cosmetic
+"""Hyaluronic Acid", Sodium Acetylated Hyaluronate, Hydrolyzed Hyaluronic Acid, Potassium Hyaluronate," Sodium Hyaluronate""",cosmetic
+"""Copper Peptides", Palmitoyl Pentapeptide, Acetyl Hexapeptide, Palmitoyl Tripeptide," Argireline""",cosmetic
+"""Argireline", Copper Peptides, Palmitoyl Tripeptide, Palmitoyl Pentapeptide," Acetyl Hexapeptide""",cosmetic
+"""Acetyl Hexapeptide", Palmitoyl Tripeptide, Argireline, Copper Peptides," Palmitoyl Pentapeptide""",cosmetic
+"""Palmitoyl Pentapeptide", Acetyl Hexapeptide, Copper Peptides, Argireline," Palmitoyl Tripeptide""",cosmetic
+"""Palmitoyl Tripeptide", Argireline, Palmitoyl Pentapeptide, Acetyl Hexapeptide," Copper Peptides""",cosmetic
+"""Adenosine", Caffeine, Retinol, Niacinamide," Alpha Lipoic Acid""",cosmetic
+"""Alpha Lipoic Acid", Adenosine, Niacinamide, Caffeine," Retinol""",cosmetic
+"""Retinol", Niacinamide, Alpha Lipoic Acid, Adenosine," Caffeine""",cosmetic
+"""Caffeine", Retinol, Adenosine, Alpha Lipoic Acid," Niacinamide""",cosmetic
+"""Niacinamide", Alpha Lipoic Acid, Caffeine, Retinol," Adenosine""",cosmetic
+"""Ceramide NP", Ceramide AP, Ceramide EOP, Phytosphingosine," Sphingolipids""",cosmetic
+"""Sphingolipids", Ceramide NP, Phytosphingosine, Ceramide AP," Ceramide EOP""",cosmetic
+"""Ceramide EOP", Phytosphingosine, Sphingolipids, Ceramide NP," Ceramide AP""",cosmetic
+"""Ceramide AP", Ceramide EOP, Ceramide NP, Sphingolipids," Phytosphingosine""",cosmetic
+"""Phytosphingosine", Sphingolipids, Ceramide AP, Ceramide EOP," Ceramide NP""",cosmetic
+"""Cocamidopropyl Hydroxysultaine", Sodium Cocoamphoacetate, Disodium Cocoamphodiacetate, Coco Betaine," Lauryl Betaine""",personal_care
+"""Lauryl Betaine", Cocamidopropyl Hydroxysultaine, Coco Betaine, Sodium Cocoamphoacetate," Disodium Cocoamphodiacetate""",personal_care
+"""Disodium Cocoamphodiacetate", Coco Betaine, Lauryl Betaine, Cocamidopropyl Hydroxysultaine," Sodium Cocoamphoacetate""",personal_care
+"""Sodium Cocoamphoacetate", Disodium Cocoamphodiacetate, Cocamidopropyl Hydroxysultaine, Lauryl Betaine," Coco Betaine""",personal_care
+"""Coco Betaine", Lauryl Betaine, Sodium Cocoamphoacetate, Disodium Cocoamphodiacetate," Cocamidopropyl Hydroxysultaine""",personal_care
+"""Polyquaternium-1", Polyquaternium-4, Polyquaternium-6, Polyquaternium-11," Polyquaternium-16""",personal_care
+"""Polyquaternium-16", Polyquaternium-1, Polyquaternium-11, Polyquaternium-4," Polyquaternium-6""",personal_care
+"""Polyquaternium-6", Polyquaternium-11, Polyquaternium-16, Polyquaternium-1," Polyquaternium-4""",personal_care
+"""Polyquaternium-4", Polyquaternium-6, Polyquaternium-1, Polyquaternium-16," Polyquaternium-11""",personal_care
+"""Polyquaternium-11", Polyquaternium-16, Polyquaternium-4, Polyquaternium-6," Polyquaternium-1""",personal_care
+"""Stearamidopropyl Dimethylamine", Distearyldimonium Chloride, Cetyl Trimethyl Ammonium Chloride, Stearyl Trimethyl Ammonium Chloride," Benzyl Trimethyl Ammonium Chloride""",personal_care
+"""Benzyl Trimethyl Ammonium Chloride", Stearamidopropyl Dimethylamine, Stearyl Trimethyl Ammonium Chloride, Distearyldimonium Chloride," Cetyl Trimethyl Ammonium Chloride""",personal_care
+"""Cetyl Trimethyl Ammonium Chloride", Stearyl Trimethyl Ammonium Chloride, Benzyl Trimethyl Ammonium Chloride, Stearamidopropyl Dimethylamine," Distearyldimonium Chloride""",personal_care
+"""Distearyldimonium Chloride", Cetyl Trimethyl Ammonium Chloride, Stearamidopropyl Dimethylamine, Benzyl Trimethyl Ammonium Chloride," Stearyl Trimethyl Ammonium Chloride""",personal_care
+"""Stearyl Trimethyl Ammonium Chloride", Benzyl Trimethyl Ammonium Chloride, Distearyldimonium Chloride, Cetyl Trimethyl Ammonium Chloride," Stearamidopropyl Dimethylamine""",personal_care
+"""Cocamide MEA", Cocamide DEA, Lauramide DEA, Cocamide MIPA," Oleamide DEA""",personal_care
+"""Oleamide DEA", Cocamide MEA, Cocamide MIPA, Cocamide DEA," Lauramide DEA""",personal_care
+"""Lauramide DEA", Cocamide MIPA, Oleamide DEA, Cocamide MEA," Cocamide DEA""",personal_care
+"""Cocamide DEA", Lauramide DEA, Cocamide MEA, Oleamide DEA," Cocamide MIPA""",personal_care
+"""Cocamide MIPA", Oleamide DEA, Cocamide DEA, Lauramide DEA," Cocamide MEA""",personal_care
+"""Alpha Olefin Sulfonate", Sodium C14-16 Olefin Sulfonate, Sodium C12-14 Olefin Sulfonate, Ammonium C12-15 Alkyl Sulfate," TEA-Dodecylbenzenesulfonate""",cleaning
+"""TEA-Dodecylbenzenesulfonate", Alpha Olefin Sulfonate, Ammonium C12-15 Alkyl Sulfate, Sodium C14-16 Olefin Sulfonate," Sodium C12-14 Olefin Sulfonate""",cleaning
+"""Sodium C12-14 Olefin Sulfonate", Ammonium C12-15 Alkyl Sulfate, TEA-Dodecylbenzenesulfonate, Alpha Olefin Sulfonate," Sodium C14-16 Olefin Sulfonate""",cleaning
+"""Sodium C14-16 Olefin Sulfonate", Sodium C12-14 Olefin Sulfonate, Alpha Olefin Sulfonate, TEA-Dodecylbenzenesulfonate," Ammonium C12-15 Alkyl Sulfate""",cleaning
+"""Ammonium C12-15 Alkyl Sulfate", TEA-Dodecylbenzenesulfonate, Sodium C14-16 Olefin Sulfonate, Sodium C12-14 Olefin Sulfonate," Alpha Olefin Sulfonate""",cleaning
+"""Sodium Carbonate", Sodium Sesquicarbonate, Sodium Bicarbonate, Potassium Carbonate," Ammonium Carbonate""",cleaning
+"""Ammonium Carbonate", Sodium Carbonate, Potassium Carbonate, Sodium Sesquicarbonate," Sodium Bicarbonate""",cleaning
+"""Sodium Bicarbonate", Potassium Carbonate, Ammonium Carbonate, Sodium Carbonate," Sodium Sesquicarbonate""",cleaning
+"""Sodium Sesquicarbonate", Sodium Bicarbonate, Sodium Carbonate, Ammonium Carbonate," Potassium Carbonate""",cleaning
+"""Potassium Carbonate", Ammonium Carbonate, Sodium Sesquicarbonate, Sodium Bicarbonate," Sodium Carbonate""",cleaning
+"""Subtilisin", Alcalase, Savinase, Esperase," Durazym""",cleaning
+"""Durazym", Subtilisin, Esperase, Alcalase," Savinase""",cleaning
+"""Savinase", Esperase, Durazym, Subtilisin," Alcalase""",cleaning
+"""Alcalase", Savinase, Subtilisin, Durazym," Esperase""",cleaning
+"""Esperase", Durazym, Alcalase, Savinase," Subtilisin""",cleaning
+"""Fluorescent Whitening Agent", Stilbene Derivatives, Coumarin Derivatives, Pyrazoline Derivatives," Benzoxazole Derivatives""",cleaning
+"""Benzoxazole Derivatives", Fluorescent Whitening Agent, Pyrazoline Derivatives, Stilbene Derivatives," Coumarin Derivatives""",cleaning
+"""Coumarin Derivatives", Pyrazoline Derivatives, Benzoxazole Derivatives, Fluorescent Whitening Agent," Stilbene Derivatives""",cleaning
+"""Stilbene Derivatives", Coumarin Derivatives, Fluorescent Whitening Agent, Benzoxazole Derivatives," Pyrazoline Derivatives""",cleaning
+"""Pyrazoline Derivatives", Benzoxazole Derivatives, Stilbene Derivatives, Coumarin Derivatives," Fluorescent Whitening Agent""",cleaning
+"""Polyacrylamide", Polyethylene Oxide, Carboxymethyl Cellulose, Sodium Polyacrylate," Hydroxyethyl Cellulose""",stationery
+"""Hydroxyethyl Cellulose", Polyacrylamide, Sodium Polyacrylate, Polyethylene Oxide," Carboxymethyl Cellulose""",stationery
+"""Carboxymethyl Cellulose", Sodium Polyacrylate, Hydroxyethyl Cellulose, Polyacrylamide," Polyethylene Oxide""",stationery
+"""Polyethylene Oxide", Carboxymethyl Cellulose, Polyacrylamide, Hydroxyethyl Cellulose," Sodium Polyacrylate""",stationery
+"""Sodium Polyacrylate", Hydroxyethyl Cellulose, Polyethylene Oxide, Carboxymethyl Cellulose," Polyacrylamide""",stationery
+"""Styrene-Butadiene Rubber", Natural Rubber Latex, Synthetic Rubber, Neoprene," Polyisoprene""",stationery
+"""Polyisoprene", Styrene-Butadiene Rubber, Neoprene, Natural Rubber Latex," Synthetic Rubber""",stationery
+"""Synthetic Rubber", Neoprene, Polyisoprene, Styrene-Butadiene Rubber," Natural Rubber Latex""",stationery
+"""Natural Rubber Latex", Synthetic Rubber, Styrene-Butadiene Rubber, Polyisoprene," Neoprene""",stationery
+"""Neoprene", Polyisoprene, Natural Rubber Latex, Synthetic Rubber," Styrene-Butadiene Rubber""",stationery
+"""Quinacridone", Dioxazine Purple, Phthalocyanine Green, Benzimidazolone Orange," Isoindolinone Yellow""",stationery
+"""Isoindolinone Yellow", Quinacridone, Benzimidazolone Orange, Dioxazine Purple," Phthalocyanine Green""",stationery
+"""Phthalocyanine Green", Benzimidazolone Orange, Isoindolinone Yellow, Quinacridone," Dioxazine Purple""",stationery
+"""Dioxazine Purple", Phthalocyanine Green, Quinacridone, Isoindolinone Yellow," Benzimidazolone Orange""",stationery
+"""Benzimidazolone Orange", Isoindolinone Yellow, Dioxazine Purple, Phthalocyanine Green," Quinacridone""",stationery
+"""Dibutyl Phthalate", Diethyl Phthalate, Dimethyl Phthalate, Benzyl Butyl Phthalate," Dioctyl Phthalate""",household
+"""Dioctyl Phthalate", Dibutyl Phthalate, Benzyl Butyl Phthalate, Diethyl Phthalate," Dimethyl Phthalate""",household
+"""Dimethyl Phthalate", Benzyl Butyl Phthalate, Dioctyl Phthalate, Dibutyl Phthalate," Diethyl Phthalate""",household
+"""Diethyl Phthalate", Dimethyl Phthalate, Dibutyl Phthalate, Dioctyl Phthalate," Benzyl Butyl Phthalate""",household
+"""Benzyl Butyl Phthalate", Dioctyl Phthalate, Diethyl Phthalate, Dimethyl Phthalate," Dibutyl Phthalate""",household
+"""Metronidazole", Tinidazole, Ornidazole, Secnidazole," Satranidazole""",medicine
+"""Satranidazole", Metronidazole, Secnidazole, Tinidazole," Ornidazole""",medicine
+"""Ornidazole", Secnidazole, Satranidazole, Metronidazole," Tinidazole""",medicine
+"""Tinidazole", Ornidazole, Metronidazole, Satranidazole," Secnidazole""",medicine
+"""Secnidazole", Satranidazole, Tinidazole, Ornidazole," Metronidazole""",medicine
+"""Hydroxyzine", Diphenhydramine, Chlorpheniramine, Promethazine," Cyproheptadine""",medicine
+"""Cyproheptadine", Hydroxyzine, Promethazine, Diphenhydramine," Chlorpheniramine""",medicine
+"""Chlorpheniramine", Promethazine, Cyproheptadine, Hydroxyzine," Diphenhydramine""",medicine
+"""Diphenhydramine", Chlorpheniramine, Hydroxyzine, Cyproheptadine," Promethazine""",medicine
+"""Promethazine", Cyproheptadine, Diphenhydramine, Chlorpheniramine," Hydroxyzine""",medicine
+"""Ketorolac", Diclofenac, Naproxen, Indomethacin," Meloxicam""",medicine
+"""Meloxicam", Ketorolac, Indomethacin, Diclofenac," Naproxen""",medicine
+"""Naproxen", Indomethacin, Meloxicam, Ketorolac," Diclofenac""",medicine
+"""Diclofenac", Naproxen, Ketorolac, Meloxicam," Indomethacin""",medicine
+"""Indomethacin", Meloxicam, Diclofenac, Naproxen," Ketorolac""",medicine
+"""Ranitidine", Famotidine, Cimetidine, Nizatidine," Roxatidine""",medicine
+"""Roxatidine", Ranitidine, Nizatidine, Famotidine," Cimetidine""",medicine
+"""Cimetidine", Nizatidine, Roxatidine, Ranitidine," Famotidine""",medicine
+"""Famotidine", Cimetidine, Ranitidine, Roxatidine," Nizatidine""",medicine
+"""Lactic Acid", Sodium Benzoate, Citric Acid, Xanthan Gum," Monosodium Glutamate""",food
+"""Monosodium Glutamate", Sodium Benzoate, Citric Acid, Lactic Acid," Xanthan Gum""",food
+"""Citric Acid", Lactic Acid, Xanthan Gum, Sodium Benzoate," Monosodium Glutamate""",food
+"""Cetyl Alcohol", Panthenol, Paraben, Glycerin," Fragrance""",cosmetic
+"""Panthenol", Paraben, Glycerin, Cetyl Alcohol," Fragrance""",cosmetic
+"""Paraben", Glycerin, Cetyl Alcohol, Panthenol," Fragrance""",cosmetic
+"""Cocamidopropyl Betaine", Triclosan, Salicylic Acid, Sodium Laureth Sulfate," Aloe Vera""",personal_care
+"""Cocamidopropyl Betaine", Aloe Vera, Sodium Laureth Sulfate, Triclosan," Salicylic Acid""",personal_care
+"""Salicylic Acid", Triclosan, Cocamidopropyl Betaine, Sodium Laureth Sulfate," Aloe Vera""",personal_care
+"""Sodium Hypochlorite", Benzalkonium Chloride, Sodium Lauryl Sulfate, Ammonia," Citric Acid""",cleaning
+"""Sodium Hypochlorite", Ammonia, Citric Acid, Benzalkonium Chloride," Sodium Lauryl Sulfate""",cleaning
+"""Sodium Hypochlorite", Ammonia, Citric Acid, Sodium Lauryl Sulfate," Benzalkonium Chloride""",cleaning
+"""Polyvinyl Alcohol", Ethyl Acetate, Toluene, Benzene," Propylene Glycol""",stationery
+"""Propylene Glycol", Polyvinyl Alcohol, Benzene, Toluene," Ethyl Acetate""",stationery
+"""Toluene", Polyvinyl Alcohol, Ethyl Acetate, Benzene," Propylene Glycol""",stationery
+"""Acetone", Isobutane, Limonene, Formaldehyde," Butane""",household
+"""Acetone", Formaldehyde, Butane, Limonene," Isobutane""",household
+"""Acetone", Isobutane, Butane, Formaldehyde," Limonene""",household
+"""Acetylsalicylic Acid", Etidocaine, Paracetamol, Ibuprofen," Diphenhydramine""",medicine
+"""Ibuprofen", Paracetamol, Acetylsalicylic Acid, Etidocaine," Diphenhydramine""",medicine
+"""Etidocaine", Ibuprofen, Acetylsalicylic Acid, Paracetamol," Diphenhydramine""",medicine
+"""Potassium Sorbate", Ascorbic Acid, Sodium Chloride, Lecithin," Citric Acid""",food
+"""Sodium Chloride", Potassium Sorbate, Lecithin, Ascorbic Acid," Citric Acid""",food
+"""Lecithin", Citric Acid, Sodium Chloride, Potassium Sorbate," Ascorbic Acid""",food
+"""Ascorbic Acid", Lecithin, Potassium Sorbate, Citric Acid," Sodium Chloride""",food
+"""Citric Acid", Ascorbic Acid, Sodium Chloride, Lecithin," Potassium Sorbate""",food
+"""Sodium Nitrite", Sodium Phosphate, Corn Syrup, Carrageenan," Natural Flavors""",food
+"""Carrageenan", Sodium Nitrite, Natural Flavors, Corn Syrup," Sodium Phosphate""",food
+"""Natural Flavors", Sodium Phosphate, Carrageenan, Sodium Nitrite," Corn Syrup""",food
+"""Corn Syrup", Natural Flavors, Sodium Nitrite, Carrageenan," Sodium Phosphate""",food
+"""Sodium Phosphate", Corn Syrup, Natural Flavors, Carrageenan," Sodium Nitrite""",food
+"""Calcium Propionate", Dextrose, Yeast Extract, Calcium Carbonate," Wheat Flour""",food
+"""Wheat Flour", Calcium Propionate, Calcium Carbonate, Dextrose," Yeast Extract""",food
+"""Yeast Extract", Calcium Carbonate, Wheat Flour, Calcium Propionate," Dextrose""",food
+"""Dextrose", Wheat Flour, Yeast Extract, Calcium Carbonate," Calcium Propionate""",food
+"""Calcium Carbonate", Yeast Extract, Calcium Propionate, Wheat Flour," Dextrose""",food
+"""Sodium Stearoyl Lactylate", Monocalcium Phosphate, Enzyme, Salt," Sugar""",food
+"""Sugar", Sodium Stearoyl Lactylate, Salt, Monocalcium Phosphate," Enzyme""",food
+"""Enzyme", Salt, Sugar, Sodium Stearoyl Lactylate," Monocalcium Phosphate""",food
+"""Salt", Monocalcium Phosphate, Enzyme, Sugar," Sodium Stearoyl Lactylate""",food
+"""Monocalcium Phosphate", Enzyme, Sodium Stearoyl Lactylate, Salt," Sugar""",food
+"""Modified Corn Starch", Maltodextrin, Sodium Caseinate, Dipotassium Phosphate," Silicon Dioxide""",food
+"""Silicon Dioxide", Modified Corn Starch, Dipotassium Phosphate, Maltodextrin," Sodium Caseinate""",food
+"""Sodium Caseinate", Dipotassium Phosphate, Silicon Dioxide, Modified Corn Starch," Maltodextrin""",food
+"""Maltodextrin", Silicon Dioxide, Sodium Caseinate, Dipotassium Phosphate," Modified Corn Starch""",food
+"""Dipotassium Phosphate", Maltodextrin, Modified Corn Starch, Silicon Dioxide," Sodium Caseinate""",food
+"""Guar Gum", Carob Bean Gum, Agar, Pectin," Gellan Gum""",food
+"""Pectin", Guar Gum, Gellan Gum, Carob Bean Gum," Agar""",food
+"""Agar", Gellan Gum, Pectin, Guar Gum," Carob Bean Gum""",food
+"""Carob Bean Gum", Agar, Guar Gum, Pectin," Gellan Gum""",food
+"""Gellan Gum", Carob Bean Gum, Agar, Pectin," Guar Gum""",food
+"""Vanillin", Ethyl Vanillin, Benzyl Alcohol, Propylene Glycol," Caramel Color""",food
+"""Caramel Color", Vanillin, Propylene Glycol, Ethyl Vanillin," Benzyl Alcohol""",food
+"""Benzyl Alcohol", Propylene Glycol, Caramel Color, Vanillin," Ethyl Vanillin""",food
+"""Ethyl Vanillin", Benzyl Alcohol, Vanillin, Caramel Color," Propylene Glycol""",food
+"""Propylene Glycol", Caramel Color, Ethyl Vanillin, Benzyl Alcohol," Vanillin""",food
+"""Sodium Erythorbate", Potassium Lactate, Sodium Diacetate, Cultured Celery Powder," Sea Salt""",food
+"""Sea Salt", Sodium Erythorbate, Cultured Celery Powder, Potassium Lactate," Sodium Diacetate""",food
+"""Cultured Celery Powder", Sodium Diacetate, Sea Salt, Sodium Erythorbate," Potassium Lactate""",food
+"""Potassium Lactate", Cultured Celery Powder, Sodium Erythorbate, Sea Salt," Sodium Diacetate""",food
+"""Sodium Diacetate", Sea Salt, Potassium Lactate, Cultured Celery Powder," Sodium Erythorbate""",food
+"""Hyaluronic Acid", Retinol, Vitamin E, Jojoba Oil," Niacinamide""",cosmetic
+"""Niacinamide", Hyaluronic Acid, Jojoba Oil, Retinol," Vitamin E""",cosmetic
+"""Vitamin E", Jojoba Oil, Niacinamide, Hyaluronic Acid," Retinol""",cosmetic
+"""Jojoba Oil", Retinol, Vitamin E, Niacinamide," Hyaluronic Acid""",cosmetic
+"""Retinol", Vitamin E, Hyaluronic Acid, Jojoba Oil," Niacinamide""",cosmetic
+"""Shea Butter", Cocoa Butter, Lanolin, Beeswax," Vitamin A""",cosmetic
+"""Vitamin A", Shea Butter, Beeswax, Cocoa Butter," Lanolin""",cosmetic
+"""Lanolin", Beeswax, Vitamin A, Shea Butter," Cocoa Butter""",cosmetic
+"""Cocoa Butter", Lanolin, Shea Butter, Vitamin A," Beeswax""",cosmetic
+"""Beeswax", Vitamin A, Cocoa Butter, Lanolin," Shea Butter""",cosmetic
+"""Dimethicone", Cyclomethicone, Isopropyl Myristate, Phenoxyethanol," Tocopherol""",cosmetic
+"""Tocopherol", Dimethicone, Phenoxyethanol, Cyclomethicone," Isopropyl Myristate""",cosmetic
+"""Phenoxyethanol", Isopropyl Myristate, Tocopherol, Dimethicone," Cyclomethicone""",cosmetic
+"""Cyclomethicone", Phenoxyethanol, Dimethicone, Tocopherol," Isopropyl Myristate""",cosmetic
+"""Isopropyl Myristate", Tocopherol, Cyclomethicone, Phenoxyethanol," Dimethicone""",cosmetic
+"""Titanium Dioxide", Zinc Oxide, Iron Oxides, Mica," Talc""",cosmetic
+"""Talc", Titanium Dioxide, Mica, Zinc Oxide," Iron Oxides""",cosmetic
+"""Iron Oxides", Mica, Talc, Titanium Dioxide," Zinc Oxide""",cosmetic
+"""Zinc Oxide", Iron Oxides, Titanium Dioxide, Talc," Mica""",cosmetic
+"""Mica", Talc, Zinc Oxide, Iron Oxides," Titanium Dioxide""",cosmetic
+"""Octinoxate", Octisalate, Avobenzone, Oxybenzone," Homosalate""",cosmetic
+"""Homosalate", Octinoxate, Oxybenzone, Octisalate," Avobenzone""",cosmetic
+"""Avobenzone", Oxybenzone, Homosalate, Octinoxate," Octisalate""",cosmetic
+"""Octisalate", Avobenzone, Octinoxate, Homosalate," Oxybenzone""",cosmetic
+"""Oxybenzone", Homosalate, Octisalate, Avobenzone," Octinoxate""",cosmetic
+"""Kojic Acid", Alpha Arbutin, Hydroquinone, Glycolic Acid," Vitamin C""",cosmetic
+"""Vitamin C", Kojic Acid, Glycolic Acid, Alpha Arbutin," Hydroquinone""",cosmetic
+"""Hydroquinone", Glycolic Acid, Vitamin C, Kojic Acid," Alpha Arbutin""",cosmetic
+"""Alpha Arbutin", Hydroquinone, Kojic Acid, Vitamin C," Glycolic Acid""",cosmetic
+"""Glycolic Acid", Vitamin C, Alpha Arbutin, Hydroquinone," Kojic Acid""",cosmetic
+"""Ceramides", Cholesterol, Fatty Acids, Squalane," Peptides""",cosmetic
+"""Peptides", Ceramides, Squalane, Cholesterol," Fatty Acids""",cosmetic
+"""Fatty Acids", Squalane, Peptides, Ceramides," Cholesterol""",cosmetic
+"""Cholesterol", Fatty Acids, Ceramides, Peptides," Squalane""",cosmetic
+"""Squalane", Peptides, Cholesterol, Fatty Acids," Ceramides""",cosmetic
+"""Salicylic Acid", Benzoyl Peroxide, Tea Tree Oil, Witch Hazel," Niacinamide""",personal_care
+"""Niacinamide", Salicylic Acid, Witch Hazel, Benzoyl Peroxide," Tea Tree Oil""",personal_care
+"""Tea Tree Oil", Witch Hazel, Niacinamide, Salicylic Acid," Benzoyl Peroxide""",personal_care
+"""Benzoyl Peroxide", Tea Tree Oil, Salicylic Acid, Niacinamide," Witch Hazel""",personal_care
+"""Witch Hazel", Niacinamide, Benzoyl Peroxide, Tea Tree Oil," Salicylic Acid""",personal_care
+"""Zinc Pyrithione", Ketoconazole, Coal Tar, Selenium Sulfide," Piroctone Olamine""",personal_care
+"""Piroctone Olamine", Zinc Pyrithione, Selenium Sulfide, Ketoconazole," Coal Tar""",personal_care
+"""Coal Tar", Selenium Sulfide, Piroctone Olamine, Zinc Pyrithione," Ketoconazole""",personal_care
+"""Ketoconazole", Coal Tar, Zinc Pyrithione, Piroctone Olamine," Selenium Sulfide""",personal_care
+"""Selenium Sulfide", Piroctone Olamine, Ketoconazole, Coal Tar," Zinc Pyrithione""",personal_care
+"""Fluoride", Xylitol, Triclosan, Sodium Bicarbonate," Menthol""",personal_care
+"""Menthol", Fluoride, Sodium Bicarbonate, Xylitol," Triclosan""",personal_care
+"""Triclosan", Sodium Bicarbonate, Menthol, Fluoride," Xylitol""",personal_care
+"""Xylitol", Triclosan, Fluoride, Menthol," Sodium Bicarbonate""",personal_care
+"""Sodium Bicarbonate", Menthol, Xylitol, Triclosan," Fluoride""",personal_care
+"""Aluminum Chloride", Aluminum Zirconium, Propylene Glycol, Cyclomethicone," Fragrance""",personal_care
+"""Fragrance", Aluminum Chloride, Cyclomethicone, Aluminum Zirconium," Propylene Glycol""",personal_care
+"""Propylene Glycol", Cyclomethicone, Fragrance, Aluminum Chloride," Aluminum Zirconium""",personal_care
+"""Aluminum Zirconium", Propylene Glycol, Aluminum Chloride, Fragrance," Cyclomethicone""",personal_care
+"""Cyclomethicone", Fragrance, Aluminum Zirconium, Propylene Glycol," Aluminum Chloride""",personal_care
+"""Keratin", Silk Protein, Argan Oil, Biotin," Panthenol""",personal_care
+"""Panthenol", Keratin, Biotin, Silk Protein," Argan Oil""",personal_care
+"""Argan Oil", Biotin, Panthenol, Keratin," Silk Protein""",personal_care
+"""Silk Protein", Argan Oil, Keratin, Panthenol," Biotin""",personal_care
+"""Biotin", Panthenol, Silk Protein, Argan Oil," Keratin""",personal_care
+"""Quaternium-15", DMDM Hydantoin, Imidazolidinyl Urea, Methylchloroisothiazolinone," Methylisothiazolinone""",personal_care
+"""Methylisothiazolinone", Quaternium-15, Methylchloroisothiazolinone, DMDM Hydantoin," Imidazolidinyl Urea""",personal_care
+"""Imidazolidinyl Urea", Methylchloroisothiazolinone, Methylisothiazolinone, Quaternium-15," DMDM Hydantoin""",personal_care
+"""DMDM Hydantoin", Imidazolidinyl Urea, Quaternium-15, Methylisothiazolinone," Methylchloroisothiazolinone""",personal_care
+"""Methylchloroisothiazolinone", Methylisothiazolinone, DMDM Hydantoin, Imidazolidinyl Urea," Quaternium-15""",personal_care
+"""Sodium Lauryl Sulfate", Ammonium Lauryl Sulfate, Sodium Laureth Sulfate, Cocamide DEA," EDTA""",cleaning
+"""EDTA", Sodium Lauryl Sulfate, Cocamide DEA, Ammonium Lauryl Sulfate," Sodium Laureth Sulfate""",cleaning
+"""Cocamide DEA", Sodium Laureth Sulfate, EDTA, Sodium Lauryl Sulfate," Ammonium Lauryl Sulfate""",cleaning
+"""Ammonium Lauryl Sulfate", Cocamide DEA, Sodium Lauryl Sulfate, EDTA," Sodium Laureth Sulfate""",cleaning
+"""Sodium Laureth Sulfate", EDTA, Ammonium Lauryl Sulfate, Cocamide DEA," Sodium Lauryl Sulfate""",cleaning
+"""Quaternary Ammonium Compounds", Isopropyl Alcohol, Hydrogen Peroxide, Phenolic Compounds," Chlorine Bleach""",cleaning
+"""Chlorine Bleach", Quaternary Ammonium Compounds, Phenolic Compounds, Isopropyl Alcohol," Hydrogen Peroxide""",cleaning
+"""Hydrogen Peroxide", Phenolic Compounds, Chlorine Bleach, Quaternary Ammonium Compounds," Isopropyl Alcohol""",cleaning
+"""Isopropyl Alcohol", Hydrogen Peroxide, Quaternary Ammonium Compounds, Chlorine Bleach," Phenolic Compounds""",cleaning
+"""Phenolic Compounds", Chlorine Bleach, Isopropyl Alcohol, Hydrogen Peroxide," Quaternary Ammonium Compounds""",cleaning
+"""Sodium Carbonate", Sodium Phosphate, Enzymes, Optical Brighteners," Fragrance""",cleaning
+"""Fragrance", Sodium Carbonate, Optical Brighteners, Sodium Phosphate," Enzymes""",cleaning
+"""Enzymes", Optical Brighteners, Fragrance, Sodium Carbonate," Sodium Phosphate""",cleaning
+"""Sodium Phosphate", Enzymes, Sodium Carbonate, Fragrance," Optical Brighteners""",cleaning
+"""Optical Brighteners", Fragrance, Sodium Phosphate, Enzymes," Sodium Carbonate""",cleaning
+"""Citrus Terpenes", Pine Oil, Borax, Washing Soda," White Vinegar""",cleaning
+"""White Vinegar", Citrus Terpenes, Washing Soda, Pine Oil," Borax""",cleaning
+"""Borax", Washing Soda, White Vinegar, Citrus Terpenes," Pine Oil""",cleaning
+"""Pine Oil", Borax, Citrus Terpenes, White Vinegar," Washing Soda""",cleaning
+"""Washing Soda", White Vinegar, Pine Oil, Borax," Citrus Terpenes""",cleaning
+"""Calcium Hypochlorite", Sodium Bisulfate, Cyanuric Acid, Algaecides," Clarifiers""",cleaning
+"""Clarifiers", Calcium Hypochlorite, Algaecides, Sodium Bisulfate," Cyanuric Acid""",cleaning
+"""Cyanuric Acid", Algaecides, Clarifiers, Calcium Hypochlorite," Sodium Bisulfate""",cleaning
+"""Sodium Bisulfate", Cyanuric Acid, Calcium Hypochlorite, Clarifiers," Algaecides""",cleaning
+"""Algaecides", Clarifiers, Sodium Bisulfate, Cyanuric Acid," Calcium Hypochlorite""",cleaning
+"""Oxalic Acid", Phosphoric Acid, Hydrochloric Acid, Sulfamic Acid," Acetic Acid""",cleaning
+"""Acetic Acid", Oxalic Acid, Sulfamic Acid, Phosphoric Acid," Hydrochloric Acid""",cleaning
+"""Hydrochloric Acid", Sulfamic Acid, Acetic Acid, Oxalic Acid," Phosphoric Acid""",cleaning
+"""Phosphoric Acid", Hydrochloric Acid, Oxalic Acid, Acetic Acid," Sulfamic Acid""",cleaning
+"""Sulfamic Acid", Acetic Acid, Phosphoric Acid, Hydrochloric Acid," Oxalic Acid""",cleaning
+"""Polyethylene Glycol", Castor Oil, Mineral Oil, Paraffin Wax," Carbon Black""",stationery
+"""Carbon Black", Polyethylene Glycol, Paraffin Wax, Castor Oil," Mineral Oil""",stationery
+"""Mineral Oil", Paraffin Wax, Carbon Black, Polyethylene Glycol," Castor Oil""",stationery
+"""Castor Oil", Mineral Oil, Polyethylene Glycol, Carbon Black," Paraffin Wax""",stationery
+"""Paraffin Wax", Carbon Black, Castor Oil, Mineral Oil," Polyethylene Glycol""",stationery
+"""Methyl Ethyl Ketone", Isopropanol, Ethanol, Methanol," Acetone""",stationery
+"""Acetone", Methyl Ethyl Ketone, Methanol, Isopropanol," Ethanol""",stationery
+"""Ethanol", Methanol, Acetone, Methyl Ethyl Ketone," Isopropanol""",stationery
+"""Isopropanol", Ethanol, Methyl Ethyl Ketone, Acetone," Methanol""",stationery
+"""Methanol", Acetone, Isopropanol, Ethanol," Methyl Ethyl Ketone""",stationery
+"""Gum Arabic", Dextrin, Polyvinyl Pyrrolidone, Carboxymethyl Cellulose," Starch""",stationery
+"""Starch", Gum Arabic, Carboxymethyl Cellulose, Dextrin," Polyvinyl Pyrrolidone""",stationery
+"""Polyvinyl Pyrrolidone", Carboxymethyl Cellulose, Starch, Gum Arabic," Dextrin""",stationery
+"""Dextrin", Polyvinyl Pyrrolidone, Gum Arabic, Starch," Carboxymethyl Cellulose""",stationery
+"""Carboxymethyl Cellulose", Starch, Dextrin, Polyvinyl Pyrrolidone," Gum Arabic""",stationery
+"""Titanium Dioxide", Calcium Carbonate, Kaolin Clay, Cellulose," Optical Brightening Agents""",stationery
+"""Optical Brightening Agents", Titanium Dioxide, Cellulose, Calcium Carbonate," Kaolin Clay""",stationery
+"""Kaolin Clay", Cellulose, Optical Brightening Agents, Titanium Dioxide," Calcium Carbonate""",stationery
+"""Calcium Carbonate", Kaolin Clay, Titanium Dioxide, Optical Brightening Agents," Cellulose""",stationery
+"""Cellulose", Optical Brightening Agents, Calcium Carbonate, Kaolin Clay," Titanium Dioxide""",stationery
+"""Synthetic Resin", Natural Rubber, Sulfur, Zinc Oxide," Pumice""",stationery
+"""Pumice", Synthetic Resin, Zinc Oxide, Natural Rubber," Sulfur""",stationery
+"""Sulfur", Zinc Oxide, Pumice, Synthetic Resin," Natural Rubber""",stationery
+"""Natural Rubber", Sulfur, Synthetic Resin, Pumice," Zinc Oxide""",stationery
+"""Zinc Oxide", Pumice, Natural Rubber, Sulfur," Synthetic Resin""",stationery
+"""Methylene Chloride", Cyclohexane, Heptane, White Spirit," Turpentine""",stationery
+"""Turpentine", Methylene Chloride, White Spirit, Cyclohexane," Heptane""",stationery
+"""Heptane", White Spirit, Turpentine, Methylene Chloride," Cyclohexane""",stationery
+"""Cyclohexane", Heptane, Methylene Chloride, Turpentine," White Spirit""",stationery
+"""White Spirit", Turpentine, Cyclohexane, Heptane," Methylene Chloride""",stationery
+"""Butanol", Ethyl Acetate, Methyl Acetate, Diethylene Glycol," Propanol""",household
+"""Propanol", Butanol, Diethylene Glycol, Ethyl Acetate," Methyl Acetate""",household
+"""Methyl Acetate", Diethylene Glycol, Propanol, Butanol," Ethyl Acetate""",household
+"""Ethyl Acetate", Methyl Acetate, Butanol, Propanol," Diethylene Glycol""",household
+"""Diethylene Glycol", Propanol, Ethyl Acetate, Methyl Acetate," Butanol""",household
+"""Camphor", Menthol, Eucalyptus Oil, Peppermint Oil," Wintergreen Oil""",household
+"""Wintergreen Oil", Camphor, Peppermint Oil, Menthol," Eucalyptus Oil""",household
+"""Eucalyptus Oil", Peppermint Oil, Wintergreen Oil, Camphor," Menthol""",household
+"""Menthol", Eucalyptus Oil, Camphor, Wintergreen Oil," Peppermint Oil""",household
+"""Peppermint Oil", Wintergreen Oil, Menthol, Eucalyptus Oil," Camphor""",household
+"""Naphthalene", Paradichlorobenzene, Cedar Oil, Lavender Oil," Citronella""",household
+"""Citronella", Naphthalene, Lavender Oil, Paradichlorobenzene," Cedar Oil""",household
+"""Cedar Oil", Lavender Oil, Citronella, Naphthalene," Paradichlorobenzene""",household
+"""Paradichlorobenzene", Cedar Oil, Naphthalene, Citronella," Lavender Oil""",household
+"""Lavender Oil", Citronella, Paradichlorobenzene, Cedar Oil," Naphthalene""",household
+"""Pyrethrin", Permethrin, DEET, Picaridin," Citronella Oil""",household
+"""Citronella Oil", Pyrethrin, Picaridin, Permethrin," DEET""",household
+"""DEET", Picaridin, Citronella Oil, Pyrethrin," Permethrin""",household
+"""Permethrin", DEET, Pyrethrin, Citronella Oil," Picaridin""",household
+"""Picaridin", Citronella Oil, Permethrin, DEET," Pyrethrin""",household
+"""Silica Gel", Calcium Chloride, Charcoal, Baking Soda," Zeolite""",household
+"""Zeolite", Silica Gel, Baking Soda, Calcium Chloride," Charcoal""",household
+"""Charcoal", Baking Soda, Zeolite, Silica Gel," Calcium Chloride""",household
+"""Calcium Chloride", Charcoal, Silica Gel, Zeolite," Baking Soda""",household
+"""Baking Soda", Zeolite, Calcium Chloride, Charcoal," Silica Gel""",household
+"""Ethylene Glycol", Propylene Glycol, Methanol, Isopropanol," Diethylene Glycol""",household
+"""Diethylene Glycol", Ethylene Glycol, Isopropanol, Propylene Glycol," Methanol""",household
+"""Methanol", Isopropanol, Diethylene Glycol, Ethylene Glycol," Propylene Glycol""",household
+"""Propylene Glycol", Methanol, Ethylene Glycol, Diethylene Glycol," Isopropanol""",household
+"""Isopropanol", Diethylene Glycol, Propylene Glycol, Methanol," Ethylene Glycol""",household
+"""Lidocaine", Benzocaine, Procaine, Tetracaine," Prilocaine""",medicine
+"""Prilocaine", Lidocaine, Tetracaine, Benzocaine," Procaine""",medicine
+"""Procaine", Tetracaine, Prilocaine, Lidocaine," Benzocaine""",medicine
+"""Benzocaine", Procaine, Lidocaine, Prilocaine," Tetracaine""",medicine
+"""Tetracaine", Prilocaine, Benzocaine, Procaine," Lidocaine""",medicine
+"""Omeprazole", Lansoprazole, Pantoprazole, Esomeprazole," Rabeprazole""",medicine
+"""Rabeprazole", Omeprazole, Esomeprazole, Lansoprazole," Pantoprazole""",medicine
+"""Pantoprazole", Esomeprazole, Rabeprazole, Omeprazole," Lansoprazole""",medicine
+"""Lansoprazole", Pantoprazole, Omeprazole, Rabeprazole," Esomeprazole""",medicine
+"""Esomeprazole", Rabeprazole, Lansoprazole, Pantoprazole," Omeprazole""",medicine
+"""Loratadine", Cetirizine, Fexofenadine, Desloratadine," Levocetirizine""",medicine
+"""Levocetirizine", Loratadine, Desloratadine, Cetirizine," Fexofenadine""",medicine
+"""Fexofenadine", Desloratadine, Levocetirizine, Loratadine," Cetirizine""",medicine
+"""Cetirizine", Fexofenadine, Loratadine, Levocetirizine," Desloratadine""",medicine
+"""Desloratadine", Levocetirizine, Cetirizine, Fexofenadine," Loratadine""",medicine
+"""Simvastatin", Atorvastatin, Rosuvastatin, Pravastatin," Lovastatin""",medicine
+"""Lovastatin", Simvastatin, Pravastatin, Atorvastatin," Rosuvastatin""",medicine
+"""Rosuvastatin", Pravastatin, Lovastatin, Simvastatin," Atorvastatin""",medicine
+"""Atorvastatin", Rosuvastatin, Simvastatin, Lovastatin," Pravastatin""",medicine
+"""Pravastatin", Lovastatin, Atorvastatin, Rosuvastatin," Simvastatin""",medicine
+"""Metformin", Glipizide, Glyburide, Insulin," Pioglitazone""",medicine
+"""Pioglitazone", Metformin, Insulin, Glipizide," Glyburide""",medicine
+"""Glyburide", Insulin, Pioglitazone, Metformin," Glipizide""",medicine
+"""Glipizide", Glyburide, Metformin, Pioglitazone," Insulin""",medicine
+"""Insulin", Pioglitazone, Glipizide, Glyburide," Metformin""",medicine
+"""Amlodipine", Lisinopril, Metoprolol, Hydrochlorothiazide," Losartan""",medicine
+"""Losartan", Amlodipine, Hydrochlorothiazide, Lisinopril," Metoprolol""",medicine
+"""Metoprolol", Hydrochlorothiazide, Losartan, Amlodipine," Lisinopril""",medicine
+"""Lisinopril", Metoprolol, Amlodipine, Losartan," Hydrochlorothiazide""",medicine
+"""Hydrochlorothiazide", Losartan, Lisinopril, Metoprolol," Amlodipine""",medicine
+"""Sertraline", Fluoxetine, Paroxetine, Citalopram," Escitalopram""",medicine
+"""Escitalopram", Sertraline, Citalopram, Fluoxetine," Paroxetine""",medicine
+"""Paroxetine", Citalopram, Escitalopram, Sertraline," Fluoxetine""",medicine
+"""Fluoxetine", Paroxetine, Sertraline, Escitalopram," Citalopram""",medicine
+"""Citalopram", Escitalopram, Fluoxetine, Paroxetine," Sertraline""",medicine
+"""Amoxicillin", Azithromycin, Ciprofloxacin, Doxycycline," Clindamycin""",medicine
+"""Clindamycin", Amoxicillin, Doxycycline, Azithromycin," Ciprofloxacin""",medicine
+"""Ciprofloxacin", Doxycycline, Clindamycin, Amoxicillin," Azithromycin""",medicine
+"""Azithromycin", Ciprofloxacin, Amoxicillin, Clindamycin," Doxycycline""",medicine
+"""Doxycycline", Clindamycin, Azithromycin, Ciprofloxacin," Amoxicillin""",medicine
+"""Morphine", Codeine, Oxycodone, Hydrocodone," Tramadol""",medicine
+"""Tramadol", Morphine, Hydrocodone, Codeine," Oxycodone""",medicine
+"""Oxycodone", Hydrocodone, Tramadol, Morphine," Codeine""",medicine
+"""Codeine", Oxycodone, Morphine, Tramadol," Hydrocodone""",medicine
+"""Hydrocodone", Tramadol, Codeine, Oxycodone," Morphine""",medicine
+"""Prednisone", Prednisolone, Methylprednisolone, Hydrocortisone," Dexamethasone""",medicine
+"""Dexamethasone", Prednisone, Hydrocortisone, Prednisolone," Methylprednisolone""",medicine
+"""Methylprednisolone", Hydrocortisone, Dexamethasone, Prednisone," Prednisolone""",medicine
+"""Prednisolone", Methylprednisolone, Prednisone, Dexamethasone," Hydrocortisone""",medicine
+"""Hydrocortisone", Dexamethasone, Prednisolone, Methylprednisolone," Prednisone""",medicine
+"""Potassium Sorbate", Sodium Benzoate, Calcium Propionate, Natamycin," Nisin""",food
+"""Nisin", Potassium Sorbate, Natamycin, Sodium Benzoate," Calcium Propionate""",food
+"""Calcium Propionate", Natamycin, Nisin, Potassium Sorbate," Sodium Benzoate""",food
+"""Sodium Benzoate", Calcium Propionate, Potassium Sorbate, Nisin," Natamycin""",food
+"""Natamycin", Nisin, Sodium Benzoate, Calcium Propionate," Potassium Sorbate""",food
+"""Annatto", Beta Carotene, Turmeric, Paprika Extract," Chlorophyll""",food
+"""Chlorophyll", Annatto, Paprika Extract, Beta Carotene," Turmeric""",food
+"""Turmeric", Paprika Extract, Chlorophyll, Annatto," Beta Carotene""",food
+"""Beta Carotene", Turmeric, Annatto, Chlorophyll," Paprika Extract""",food
+"""Paprika Extract", Chlorophyll, Beta Carotene, Turmeric," Annatto""",food
+"""Aspartame", Sucralose, Acesulfame Potassium, Stevia," Monk Fruit""",food
+"""Monk Fruit", Aspartame, Stevia, Sucralose," Acesulfame Potassium""",food
+"""Acesulfame Potassium", Stevia, Monk Fruit, Aspartame," Sucralose""",food
+"""Sucralose", Acesulfame Potassium, Aspartame, Monk Fruit," Stevia""",food
+"""Stevia", Monk Fruit, Sucralose, Acesulfame Potassium," Aspartame""",food
+"""Sodium Alginate", Calcium Chloride, Potassium Chloride, Magnesium Sulfate," Agar Agar""",food
+"""Agar Agar", Sodium Alginate, Magnesium Sulfate, Calcium Chloride," Potassium Chloride""",food
+"""Potassium Chloride", Magnesium Sulfate, Agar Agar, Sodium Alginate," Calcium Chloride""",food
+"""Calcium Chloride", Potassium Chloride, Sodium Alginate, Agar Agar," Magnesium Sulfate""",food
+"""Magnesium Sulfate", Agar Agar, Calcium Chloride, Potassium Chloride," Sodium Alginate""",food
+"""High Fructose Corn Syrup", Cane Sugar, Honey, Maple Syrup," Agave Nectar""",food
+"""Agave Nectar", High Fructose Corn Syrup, Maple Syrup, Cane Sugar," Honey""",food
+"""Honey", Maple Syrup, Agave Nectar, High Fructose Corn Syrup," Cane Sugar""",food
+"""Cane Sugar", Honey, High Fructose Corn Syrup, Agave Nectar," Maple Syrup""",food
+"""Maple Syrup", Agave Nectar, Cane Sugar, Honey," High Fructose Corn Syrup""",food
+"""Coconut Oil", Palm Oil, Sunflower Oil, Soybean Oil," Canola Oil""",food
+"""Canola Oil", Coconut Oil, Soybean Oil, Palm Oil," Sunflower Oil""",food
+"""Sunflower Oil", Soybean Oil, Canola Oil, Coconut Oil," Palm Oil""",food
+"""Palm Oil", Sunflower Oil, Coconut Oil, Canola Oil," Soybean Oil""",food
+"""Soybean Oil", Canola Oil, Palm Oil, Sunflower Oil," Coconut Oil""",food
+"""Whey Protein", Casein, Soy Protein, Pea Protein," Rice Protein""",food
+"""Rice Protein", Whey Protein, Pea Protein, Casein," Soy Protein""",food
+"""Soy Protein", Pea Protein, Rice Protein, Whey Protein," Casein""",food
+"""Casein", Soy Protein, Whey Protein, Rice Protein," Pea Protein""",food
+"""Pea Protein", Rice Protein, Casein, Soy Protein," Whey Protein""",food
+"""Thiamine", Riboflavin, Niacin, Pyridoxine," Cyanocobalamin""",food
+"""Cyanocobalamin", Thiamine, Pyridoxine, Riboflavin," Niacin""",food
+"""Niacin", Pyridoxine, Cyanocobalamin, Thiamine," Riboflavin""",food
+"""Riboflavin", Niacin, Thiamine, Cyanocobalamin," Pyridoxine""",food
+"""Pyridoxine", Cyanocobalamin, Riboflavin, Niacin," Thiamine""",food
+"""Calcium Carbonate", Magnesium Oxide, Iron Sulfate, Zinc Gluconate," Potassium Iodide""",food
+"""Potassium Iodide", Calcium Carbonate, Zinc Gluconate, Magnesium Oxide," Iron Sulfate""",food
+"""Iron Sulfate", Zinc Gluconate, Potassium Iodide, Calcium Carbonate," Magnesium Oxide""",food
+"""Magnesium Oxide", Iron Sulfate, Calcium Carbonate, Potassium Iodide," Zinc Gluconate""",food
+"""Zinc Gluconate", Potassium Iodide, Magnesium Oxide, Iron Sulfate," Calcium Carbonate""",food
+"""Caffeine", Taurine, Guarana, Ginseng," L-Carnitine""",food
+"""L-Carnitine", Caffeine, Ginseng, Taurine," Guarana""",food
+"""Guarana", Ginseng, L-Carnitine, Caffeine," Taurine""",food
+"""Taurine", Guarana, Caffeine, L-Carnitine," Ginseng""",food
+"""Ginseng", L-Carnitine, Taurine, Guarana," Caffeine""",food
+"""Castor Oil", Mineral Oil, Petroleum Jelly, Beeswax," Carnauba Wax""",cosmetic
+"""Carnauba Wax", Castor Oil, Beeswax, Mineral Oil," Petroleum Jelly""",cosmetic
+"""Petroleum Jelly", Beeswax, Carnauba Wax, Castor Oil," Mineral Oil""",cosmetic
+"""Mineral Oil", Petroleum Jelly, Castor Oil, Carnauba Wax," Beeswax""",cosmetic
+"""Beeswax", Carnauba Wax, Mineral Oil, Petroleum Jelly," Castor Oil""",cosmetic
+"""Sodium Hyaluronate", Glycerin, Urea, Lactic Acid," Ceramide""",cosmetic
+"""Ceramide", Sodium Hyaluronate, Lactic Acid, Glycerin," Urea""",cosmetic
+"""Urea", Lactic Acid, Ceramide, Sodium Hyaluronate," Glycerin""",cosmetic
+"""Glycerin", Urea, Sodium Hyaluronate, Ceramide," Lactic Acid""",cosmetic
+"""Lactic Acid", Ceramide, Glycerin, Urea," Sodium Hyaluronate""",cosmetic
+"""Retinyl Palmitate", Ascorbyl Palmitate, Tocopheryl Acetate, Ergocalciferol," Phytonadione""",cosmetic
+"""Phytonadione", Retinyl Palmitate, Ergocalciferol, Ascorbyl Palmitate," Tocopheryl Acetate""",cosmetic
+"""Tocopheryl Acetate", Ergocalciferol, Phytonadione, Retinyl Palmitate," Ascorbyl Palmitate""",cosmetic
+"""Ascorbyl Palmitate", Tocopheryl Acetate, Retinyl Palmitate, Phytonadione," Ergocalciferol""",cosmetic
+"""Ergocalciferol", Phytonadione, Ascorbyl Palmitate, Tocopheryl Acetate," Retinyl Palmitate""",cosmetic
+"""Salicylic Acid", Glycolic Acid, Lactic Acid, Mandelic Acid," Azelaic Acid""",cosmetic
+"""Azelaic Acid", Salicylic Acid, Mandelic Acid, Glycolic Acid," Lactic Acid""",cosmetic
+"""Lactic Acid", Mandelic Acid, Azelaic Acid, Salicylic Acid," Glycolic Acid""",cosmetic
+"""Glycolic Acid", Lactic Acid, Salicylic Acid, Azelaic Acid," Mandelic Acid""",cosmetic
+"""Mandelic Acid", Azelaic Acid, Glycolic Acid, Lactic Acid," Salicylic Acid""",cosmetic
+"""Bentonite Clay", Kaolin Clay, Fuller's Earth, Rhassoul Clay," Dead Sea Mud""",cosmetic
+"""Dead Sea Mud", Bentonite Clay, Rhassoul Clay, Kaolin Clay," Fuller's Earth""",cosmetic
+"""Fuller's Earth", Rhassoul Clay, Dead Sea Mud, Bentonite Clay," Kaolin Clay""",cosmetic
+"""Kaolin Clay", Fuller's Earth, Bentonite Clay, Dead Sea Mud," Rhassoul Clay""",cosmetic
+"""Rhassoul Clay", Dead Sea Mud, Kaolin Clay, Fuller's Earth," Bentonite Clay""",cosmetic
+"""Rose Water", Witch Hazel, Aloe Vera Gel, Cucumber Extract," Green Tea Extract""",cosmetic
+"""Green Tea Extract", Rose Water, Cucumber Extract, Witch Hazel," Aloe Vera Gel""",cosmetic
+"""Aloe Vera Gel", Cucumber Extract, Green Tea Extract, Rose Water," Witch Hazel""",cosmetic
+"""Witch Hazel", Aloe Vera Gel, Rose Water, Green Tea Extract," Cucumber Extract""",cosmetic
+"""Cucumber Extract", Green Tea Extract, Witch Hazel, Aloe Vera Gel," Rose Water""",cosmetic
+"""Argan Oil", Rosehip Oil, Jojoba Oil, Sweet Almond Oil," Coconut Oil""",cosmetic
+"""Coconut Oil", Argan Oil, Sweet Almond Oil, Rosehip Oil," Jojoba Oil""",cosmetic
+"""Jojoba Oil", Sweet Almond Oil, Coconut Oil, Argan Oil," Rosehip Oil""",cosmetic
+"""Rosehip Oil", Jojoba Oil, Argan Oil, Coconut Oil," Sweet Almond Oil""",cosmetic
+"""Sweet Almond Oil", Coconut Oil, Rosehip Oil, Jojoba Oil," Argan Oil""",cosmetic
+"""Tea Tree Oil", Eucalyptus Oil, Lavender Oil, Peppermint Oil," Rosemary Oil""",personal_care
+"""Rosemary Oil", Tea Tree Oil, Peppermint Oil, Eucalyptus Oil," Lavender Oil""",personal_care
+"""Lavender Oil", Peppermint Oil, Rosemary Oil, Tea Tree Oil," Eucalyptus Oil""",personal_care
+"""Eucalyptus Oil", Lavender Oil, Tea Tree Oil, Rosemary Oil," Peppermint Oil""",personal_care
+"""Peppermint Oil", Rosemary Oil, Eucalyptus Oil, Lavender Oil," Tea Tree Oil""",personal_care
+"""Sodium Fluoride", Stannous Fluoride, Sodium Monofluorophosphate, Calcium Fluoride," Potassium Nitrate""",personal_care
+"""Potassium Nitrate", Sodium Fluoride, Calcium Fluoride, Stannous Fluoride," Sodium Monofluorophosphate""",personal_care
+"""Sodium Monofluorophosphate", Calcium Fluoride, Potassium Nitrate, Sodium Fluoride," Stannous Fluoride""",personal_care
+"""Stannous Fluoride", Sodium Monofluorophosphate, Sodium Fluoride, Potassium Nitrate," Calcium Fluoride""",personal_care
+"""Calcium Fluoride", Potassium Nitrate, Stannous Fluoride, Sodium Monofluorophosphate," Sodium Fluoride""",personal_care
+"""Hydrolyzed Keratin", Collagen, Elastin, Silk Amino Acids," Wheat Protein""",personal_care
+"""Wheat Protein", Hydrolyzed Keratin, Silk Amino Acids, Collagen," Elastin""",personal_care
+"""Elastin", Silk Amino Acids, Wheat Protein, Hydrolyzed Keratin," Collagen""",personal_care
+"""Collagen", Elastin, Hydrolyzed Keratin, Wheat Protein," Silk Amino Acids""",personal_care
+"""Silk Amino Acids", Wheat Protein, Collagen, Elastin," Hydrolyzed Keratin""",personal_care
+"""Polyquaternium-10", Polyquaternium-7, Guar Hydroxypropyltrimonium Chloride, Cetrimonium Chloride," Behentrimonium Chloride""",personal_care
+"""Behentrimonium Chloride", Polyquaternium-10, Cetrimonium Chloride, Polyquaternium-7," Guar Hydroxypropyltrimonium Chloride""",personal_care
+"""Guar Hydroxypropyltrimonium Chloride", Cetrimonium Chloride, Behentrimonium Chloride, Polyquaternium-10," Polyquaternium-7""",personal_care
+"""Polyquaternium-7", Guar Hydroxypropyltrimonium Chloride, Polyquaternium-10, Behentrimonium Chloride," Cetrimonium Chloride""",personal_care
+"""Cetrimonium Chloride", Behentrimonium Chloride, Polyquaternium-7, Guar Hydroxypropyltrimonium Chloride," Polyquaternium-10""",personal_care
+"""Butylated Hydroxytoluene", Butylated Hydroxyanisole, Propyl Gallate, Tocopherol," Ascorbic Acid""",personal_care
+"""Ascorbic Acid", Butylated Hydroxytoluene, Tocopherol, Butylated Hydroxyanisole," Propyl Gallate""",personal_care
+"""Propyl Gallate", Tocopherol, Ascorbic Acid, Butylated Hydroxytoluene," Butylated Hydroxyanisole""",personal_care
+"""Butylated Hydroxyanisole", Propyl Gallate, Butylated Hydroxytoluene, Ascorbic Acid," Tocopherol""",personal_care
+"""Tocopherol", Ascorbic Acid, Butylated Hydroxyanisole, Propyl Gallate," Butylated Hydroxytoluene""",personal_care
+"""Linear Alkylbenzene Sulfonate", Alpha Olefin Sulfonate, Alcohol Ethoxylate, Nonylphenol Ethoxylate," Fatty Alcohol Sulfate""",cleaning
+"""Fatty Alcohol Sulfate", Linear Alkylbenzene Sulfonate, Nonylphenol Ethoxylate, Alpha Olefin Sulfonate," Alcohol Ethoxylate""",cleaning
+"""Alcohol Ethoxylate", Nonylphenol Ethoxylate, Fatty Alcohol Sulfate, Linear Alkylbenzene Sulfonate," Alpha Olefin Sulfonate""",cleaning
+"""Alpha Olefin Sulfonate", Alcohol Ethoxylate, Linear Alkylbenzene Sulfonate, Fatty Alcohol Sulfate," Nonylphenol Ethoxylate""",cleaning
+"""Nonylphenol Ethoxylate", Fatty Alcohol Sulfate, Alpha Olefin Sulfonate, Alcohol Ethoxylate," Linear Alkylbenzene Sulfonate""",cleaning
+"""Sodium Percarbonate", Sodium Perborate, Oxygen Bleach, Tetraacetylethylenediamine," Sodium Carbonate Peroxide""",cleaning
+"""Sodium Carbonate Peroxide", Sodium Percarbonate, Tetraacetylethylenediamine, Sodium Perborate," Oxygen Bleach""",cleaning
+"""Oxygen Bleach", Tetraacetylethylenediamine, Sodium Carbonate Peroxide, Sodium Percarbonate," Sodium Perborate""",cleaning
+"""Sodium Perborate", Oxygen Bleach, Sodium Percarbonate, Sodium Carbonate Peroxide," Tetraacetylethylenediamine""",cleaning
+"""Tetraacetylethylenediamine", Sodium Carbonate Peroxide, Sodium Perborate, Oxygen Bleach," Sodium Percarbonate""",cleaning
+"""Protease", Amylase, Lipase, Cellulase," Pectinase""",cleaning
+"""Pectinase", Protease, Cellulase, Amylase," Lipase""",cleaning
+"""Lipase", Cellulase, Pectinase, Protease," Amylase""",cleaning
+"""Amylase", Lipase, Protease, Pectinase," Cellulase""",cleaning
+"""Cellulase", Pectinase, Amylase, Lipase," Protease""",cleaning
+"""Sodium Metasilicate", Sodium Tripolyphosphate, Sodium Hydroxide, Potassium Hydroxide," Sodium Silicate""",cleaning
+"""Sodium Silicate", Sodium Metasilicate, Potassium Hydroxide, Sodium Tripolyphosphate," Sodium Hydroxide""",cleaning
+"""Sodium Hydroxide", Potassium Hydroxide, Sodium Silicate, Sodium Metasilicate," Sodium Tripolyphosphate""",cleaning
+"""Sodium Tripolyphosphate", Sodium Hydroxide, Sodium Metasilicate, Sodium Silicate," Potassium Hydroxide""",cleaning
+"""Potassium Hydroxide", Sodium Silicate, Sodium Tripolyphosphate, Sodium Hydroxide," Sodium Metasilicate""",cleaning
+"""Dimethyl Benzyl Ammonium Chloride", Didecyl Dimethyl Ammonium Chloride, Alkyl Dimethyl Benzyl Ammonium Chloride, Octyl Decyl Dimethyl Ammonium Chloride," Dioctyl Dimethyl Ammonium Chloride""",cleaning
+"""Dioctyl Dimethyl Ammonium Chloride", Dimethyl Benzyl Ammonium Chloride, Octyl Decyl Dimethyl Ammonium Chloride, Didecyl Dimethyl Ammonium Chloride," Alkyl Dimethyl Benzyl Ammonium Chloride""",cleaning
+"""Alkyl Dimethyl Benzyl Ammonium Chloride", Octyl Decyl Dimethyl Ammonium Chloride, Dioctyl Dimethyl Ammonium Chloride, Dimethyl Benzyl Ammonium Chloride," Didecyl Dimethyl Ammonium Chloride""",cleaning
+"""Didecyl Dimethyl Ammonium Chloride", Alkyl Dimethyl Benzyl Ammonium Chloride, Dimethyl Benzyl Ammonium Chloride, Dioctyl Dimethyl Ammonium Chloride," Octyl Decyl Dimethyl Ammonium Chloride""",cleaning
+"""Octyl Decyl Dimethyl Ammonium Chloride", Dioctyl Dimethyl Ammonium Chloride, Didecyl Dimethyl Ammonium Chloride, Alkyl Dimethyl Benzyl Ammonium Chloride," Dimethyl Benzyl Ammonium Chloride""",cleaning
+"""Rosin", Shellac, Polyvinyl Butyral, Acrylic Resin," Nitrocellulose""",stationery
+"""Nitrocellulose", Rosin, Acrylic Resin, Shellac," Polyvinyl Butyral""",stationery
+"""Polyvinyl Butyral", Acrylic Resin, Nitrocellulose, Rosin," Shellac""",stationery
+"""Shellac", Polyvinyl Butyral, Rosin, Nitrocellulose," Acrylic Resin""",stationery
+"""Acrylic Resin", Nitrocellulose, Shellac, Polyvinyl Butyral," Rosin""",stationery
+"""Barium Sulfate", Calcium Sulfate, Magnesium Carbonate, Zinc Stearate," Aluminum Hydroxide""",stationery
+"""Aluminum Hydroxide", Barium Sulfate, Zinc Stearate, Calcium Sulfate," Magnesium Carbonate""",stationery
+"""Magnesium Carbonate", Zinc Stearate, Aluminum Hydroxide, Barium Sulfate," Calcium Sulfate""",stationery
+"""Calcium Sulfate", Magnesium Carbonate, Barium Sulfate, Aluminum Hydroxide," Zinc Stearate""",stationery
+"""Zinc Stearate", Aluminum Hydroxide, Calcium Sulfate, Magnesium Carbonate," Barium Sulfate""",stationery
+"""Phthalocyanine Blue", Chrome Yellow, Cadmium Red, Ultramarine Blue," Titanium White""",stationery
+"""Titanium White", Phthalocyanine Blue, Ultramarine Blue, Chrome Yellow," Cadmium Red""",stationery
+"""Cadmium Red", Ultramarine Blue, Titanium White, Phthalocyanine Blue," Chrome Yellow""",stationery
+"""Chrome Yellow", Cadmium Red, Phthalocyanine Blue, Titanium White," Ultramarine Blue""",stationery
+"""Ultramarine Blue", Titanium White, Chrome Yellow, Cadmium Red," Phthalocyanine Blue""",stationery
+"""Polyethylene Wax", Microcrystalline Wax, Candelilla Wax, Japan Wax," Ozokerite""",stationery
+"""Ozokerite", Polyethylene Wax, Japan Wax, Microcrystalline Wax," Candelilla Wax""",stationery
+"""Candelilla Wax", Japan Wax, Ozokerite, Polyethylene Wax," Microcrystalline Wax""",stationery
+"""Microcrystalline Wax", Candelilla Wax, Polyethylene Wax, Ozokerite," Japan Wax""",stationery
+"""Japan Wax", Ozokerite, Microcrystalline Wax, Candelilla Wax," Polyethylene Wax""",stationery
+"""Lead Stearate", Calcium Stearate, Zinc Stearate, Magnesium Stearate," Aluminum Stearate""",stationery
+"""Aluminum Stearate", Lead Stearate, Magnesium Stearate, Calcium Stearate," Zinc Stearate""",stationery
+"""Zinc Stearate", Magnesium Stearate, Lead Stearate, Aluminum Stearate," Calcium Stearate""",stationery
+"""Calcium Stearate", Zinc Stearate, Aluminum Stearate, Magnesium Stearate," Lead Stearate""",stationery
+"""Magnesium Stearate", Calcium Stearate, Zinc Stearate, Lead Stearate," Aluminum Stearate""",stationery
+"""2-Butoxyethanol", Methyl Isobutyl Ketone, Xylene, Ethylbenzene," N-Methyl-2-pyrrolidone""",household
+"""N-Methyl-2-pyrrolidone", 2-Butoxyethanol, Ethylbenzene, Methyl Isobutyl Ketone," Xylene""",household
+"""Xylene", Ethylbenzene, N-Methyl-2-pyrrolidone, 2-Butoxyethanol," Methyl Isobutyl Ketone""",household
+"""Methyl Isobutyl Ketone", Xylene, 2-Butoxyethanol, N-Methyl-2-pyrrolidone," Ethylbenzene""",household
+"""Ethylbenzene", N-Methyl-2-pyrrolidone, Methyl Isobutyl Ketone, Xylene," 2-Butoxyethanol""",household
+"""Phenol", Cresol, Hexachlorophene, Triclosan," Chloroxylenol""",household
+"""Chloroxylenol", Phenol, Triclosan, Cresol," Hexachlorophene""",household
+"""Hexachlorophene", Triclosan, Chloroxylenol, Phenol," Cresol""",household
+"""Cresol", Hexachlorophene, Phenol, Chloroxylenol," Triclosan""",household
+"""Triclosan", Chloroxylenol, Cresol, Hexachlorophene," Phenol""",household
+"""Methyl Salicylate", Ethyl Acetate, Amyl Acetate, Butyl Acetate," Isoamyl Acetate""",household
+"""Isoamyl Acetate", Methyl Salicylate, Butyl Acetate, Ethyl Acetate," Amyl Acetate""",household
+"""Amyl Acetate", Butyl Acetate, Isoamyl Acetate, Methyl Salicylate," Ethyl Acetate""",household
+"""Ethyl Acetate", Amyl Acetate, Methyl Salicylate, Isoamyl Acetate," Butyl Acetate""",household
+"""Butyl Acetate", Isoamyl Acetate, Ethyl Acetate, Amyl Acetate," Methyl Salicylate""",household
+"""Dichloromethane", Carbon Tetrachloride, Perchloroethylene, Trichloroethylene," Chloroform""",household
+"""Chloroform", Dichloromethane, Trichloroethylene, Carbon Tetrachloride," Perchloroethylene""",household
+"""Perchloroethylene", Trichloroethylene, Chloroform, Dichloromethane," Carbon Tetrachloride""",household
+"""Carbon Tetrachloride", Perchloroethylene, Dichloromethane, Chloroform," Trichloroethylene""",household
+"""Trichloroethylene", Chloroform, Carbon Tetrachloride, Perchloroethylene," Dichloromethane""",household
+"""Warfarin", Brodifacoum, Bromadiolone, Difenacoum," Chlorophacinone""",household
+"""Chlorophacinone", Warfarin, Difenacoum, Brodifacoum," Bromadiolone""",household
+"""Bromadiolone", Difenacoum, Chlorophacinone, Warfarin," Brodifacoum""",household
+"""Brodifacoum", Bromadiolone, Warfarin, Chlorophacinone," Difenacoum""",household
+"""Difenacoum", Chlorophacinone, Brodifacoum, Bromadiolone," Warfarin""",household
+"""Methotrexate", Azathioprine, Cyclosporine, Tacrolimus," Mycophenolate""",medicine
+"""Mycophenolate", Methotrexate, Tacrolimus, Azathioprine," Cyclosporine""",medicine
+"""Cyclosporine", Tacrolimus, Mycophenolate, Methotrexate," Azathioprine""",medicine
+"""Azathioprine", Cyclosporine, Methotrexate, Mycophenolate," Tacrolimus""",medicine
+"""Tacrolimus", Mycophenolate, Azathioprine, Cyclosporine," Methotrexate""",medicine
+"""Digoxin", Verapamil, Diltiazem, Propranolol," Atenolol""",medicine
+"""Atenolol", Digoxin, Propranolol, Verapamil," Diltiazem""",medicine
+"""Diltiazem", Propranolol, Atenolol, Digoxin," Verapamil""",medicine
+"""Verapamil", Diltiazem, Digoxin, Atenolol," Propranolol""",medicine
+"""Propranolol", Atenolol, Verapamil, Diltiazem," Digoxin""",medicine
+"""Levothyroxine", Methimazole, Propylthiouracil, Liothyronine," Potassium Iodide""",medicine
+"""Potassium Iodide", Levothyroxine, Liothyronine, Methimazole," Propylthiouracil""",medicine
+"""Propylthiouracil", Liothyronine, Potassium Iodide, Levothyroxine," Methimazole""",medicine
+"""Methimazole", Propylthiouracil, Levothyroxine, Potassium Iodide," Liothyronine""",medicine
+"""Liothyronine", Potassium Iodide, Methimazole, Propylthiouracil," Levothyroxine""",medicine
+"""Albuterol", Ipratropium, Fluticasone, Budesonide," Montelukast""",medicine
+"""Montelukast", Albuterol, Budesonide, Ipratropium," Fluticasone""",medicine
+"""Fluticasone", Budesonide, Montelukast, Albuterol," Ipratropium""",medicine
+"""Ipratropium", Fluticasone, Albuterol, Montelukast," Budesonide""",medicine
+"""Budesonide", Montelukast, Ipratropium, Fluticasone," Albuterol""",medicine
+"""Furosemide", Hydrochlorothiazide, Spironolactone, Triamterene," Amiloride""",medicine
+"""Amiloride", Furosemide, Triamterene, Hydrochlorothiazide," Spironolactone""",medicine
+"""Spironolactone", Triamterene, Amiloride, Furosemide," Hydrochlorothiazide""",medicine
+"""Hydrochlorothiazide", Spironolactone, Furosemide, Amiloride," Triamterene""",medicine
+"""Triamterene", Amiloride, Hydrochlorothiazide, Spironolactone," Furosemide""",medicine
+"""Clonazepam", Lorazepam, Alprazolam, Diazepam," Temazepam""",medicine
+"""Temazepam", Clonazepam, Diazepam, Lorazepam," Alprazolam""",medicine
+"""Alprazolam", Diazepam, Temazepam, Clonazepam," Lorazepam""",medicine
+"""Lorazepam", Alprazolam, Clonazepam, Temazepam," Diazepam""",medicine
+"""Diazepam", Temazepam, Lorazepam, Alprazolam," Clonazepam""",medicine
+"""Phenytoin", Carbamazepine, Valproic Acid, Lamotrigine," Levetiracetam""",medicine
+"""Levetiracetam", Phenytoin, Lamotrigine, Carbamazepine," Valproic Acid""",medicine
+"""Valproic Acid", Lamotrigine, Levetiracetam, Phenytoin," Carbamazepine""",medicine
+"""Carbamazepine", Valproic Acid, Phenytoin, Levetiracetam," Lamotrigine""",medicine
+"""Lamotrigine", Levetiracetam, Carbamazepine, Valproic Acid," Phenytoin""",medicine
+"""Folic Acid", Vitamin B12, Iron Fumarate, Ferrous Sulfate," Calcium Citrate""",medicine
+"""Calcium Citrate", Folic Acid, Ferrous Sulfate, Vitamin B12," Iron Fumarate""",medicine
+"""Iron Fumarate", Ferrous Sulfate, Calcium Citrate, Folic Acid," Vitamin B12""",medicine
+"""Vitamin B12", Iron Fumarate, Folic Acid, Calcium Citrate," Ferrous Sulfate""",medicine
+"""Ferrous Sulfate", Calcium Citrate, Vitamin B12, Iron Fumarate," Folic Acid""",medicine
+"""Sucrose", Glucose, Fructose, Lactose," Maltose""",food
+"""Maltose", Sucrose, Lactose, Glucose," Fructose""",food
+"""Fructose", Lactose, Maltose, Sucrose," Glucose""",food
+"""Glucose", Fructose, Sucrose, Maltose," Lactose""",food
+"""Lactose", Maltose, Glucose, Fructose," Sucrose""",food
+"""Pectin", Carrageenan, Locust Bean Gum, Tara Gum," Konjac Gum""",food
+"""Konjac Gum", Pectin, Tara Gum, Carrageenan," Locust Bean Gum""",food
+"""Locust Bean Gum", Tara Gum, Konjac Gum, Pectin," Carrageenan""",food
+"""Carrageenan", Locust Bean Gum, Pectin, Konjac Gum," Tara Gum""",food
+"""Tara Gum", Konjac Gum, Carrageenan, Locust Bean Gum," Pectin""",food
+"""Sodium Acetate", Potassium Acetate, Calcium Acetate, Ammonium Acetate," Magnesium Acetate""",food
+"""Magnesium Acetate", Sodium Acetate, Ammonium Acetate, Potassium Acetate," Calcium Acetate""",food
+"""Calcium Acetate", Ammonium Acetate, Magnesium Acetate, Sodium Acetate," Potassium Acetate""",food
+"""Potassium Acetate", Calcium Acetate, Sodium Acetate, Magnesium Acetate," Ammonium Acetate""",food
+"""Ammonium Acetate", Magnesium Acetate, Potassium Acetate, Calcium Acetate," Sodium Acetate""",food
+"""BHA", BHT, TBHQ, Propyl Gallate," Ethoxyquin""",food
+"""Ethoxyquin", BHA, Propyl Gallate, BHT," TBHQ""",food
+"""TBHQ", Propyl Gallate, Ethoxyquin, BHA," BHT""",food
+"""BHT", TBHQ, BHA, Ethoxyquin," Propyl Gallate""",food
+"""Propyl Gallate", Ethoxyquin, BHT, TBHQ," BHA""",food
+"""Tartaric Acid", Malic Acid, Fumaric Acid, Adipic Acid," Succinic Acid""",food
+"""Succinic Acid", Tartaric Acid, Adipic Acid, Malic Acid," Fumaric Acid""",food
+"""Fumaric Acid", Adipic Acid, Succinic Acid, Tartaric Acid," Malic Acid""",food
+"""Malic Acid", Fumaric Acid, Tartaric Acid, Succinic Acid," Adipic Acid""",food
+"""Adipic Acid", Succinic Acid, Malic Acid, Fumaric Acid," Tartaric Acid""",food
+"""Polydextrose", Inulin, Oligofructose, Resistant Starch," Methylcellulose""",food
+"""Methylcellulose", Polydextrose, Resistant Starch, Inulin," Oligofructose""",food
+"""Oligofructose", Resistant Starch, Methylcellulose, Polydextrose," Inulin""",food
+"""Inulin", Oligofructose, Polydextrose, Methylcellulose," Resistant Starch""",food
+"""Resistant Starch", Methylcellulose, Inulin, Oligofructose," Polydextrose""",food
+"""Spirulina", Chlorella, Wheatgrass, Barley Grass," Alfalfa""",food
+"""Alfalfa", Spirulina, Barley Grass, Chlorella," Wheatgrass""",food
+"""Wheatgrass", Barley Grass, Alfalfa, Spirulina," Chlorella""",food
+"""Chlorella", Wheatgrass, Spirulina, Alfalfa," Barley Grass""",food
+"""Barley Grass", Alfalfa, Chlorella, Wheatgrass," Spirulina""",food
+"""Glyceryl Stearate", Cetyl Alcohol, Stearyl Alcohol, Myristyl Alcohol," Lauryl Alcohol""",cosmetic
+"""Lauryl Alcohol", Glyceryl Stearate, Myristyl Alcohol, Cetyl Alcohol," Stearyl Alcohol""",cosmetic
+"""Stearyl Alcohol", Myristyl Alcohol, Lauryl Alcohol, Glyceryl Stearate," Cetyl Alcohol""",cosmetic
+"""Cetyl Alcohol", Stearyl Alcohol, Glyceryl Stearate, Lauryl Alcohol," Myristyl Alcohol""",cosmetic
+"""Myristyl Alcohol", Lauryl Alcohol, Cetyl Alcohol, Stearyl Alcohol," Glyceryl Stearate""",cosmetic
+"""Isopropyl Palmitate", Octyl Palmitate, Cetyl Palmitate, Myristyl Myristate," Isopropyl Isostearate""",cosmetic
+"""Isopropyl Isostearate", Isopropyl Palmitate, Myristyl Myristate, Octyl Palmitate," Cetyl Palmitate""",cosmetic
+"""Cetyl Palmitate", Myristyl Myristate, Isopropyl Isostearate, Isopropyl Palmitate," Octyl Palmitate""",cosmetic
+"""Octyl Palmitate", Cetyl Palmitate, Isopropyl Palmitate, Isopropyl Isostearate," Myristyl Myristate""",cosmetic
+"""Myristyl Myristate", Isopropyl Isostearate, Octyl Palmitate, Cetyl Palmitate," Isopropyl Palmitate""",cosmetic
+"""Allantoin", Pantothenic Acid, Inositol, Choline," Biotin""",cosmetic
+"""Biotin", Allantoin, Choline, Pantothenic Acid," Inositol""",cosmetic
+"""Inositol", Choline, Biotin, Allantoin," Pantothenic Acid""",cosmetic
+"""Pantothenic Acid", Inositol, Allantoin, Biotin," Choline""",cosmetic
+"""Choline", Biotin, Pantothenic Acid, Inositol," Allantoin""",cosmetic
+"""Hydroquinone", Tretinoin, Hydrocortisone, Clindamycin," Benzoyl Peroxide""",cosmetic
+"""Benzoyl Peroxide", Hydroquinone, Clindamycin, Tretinoin," Hydrocortisone""",cosmetic
+"""Hydrocortisone", Clindamycin, Benzoyl Peroxide, Hydroquinone," Tretinoin""",cosmetic
+"""Tretinoin", Hydrocortisone, Hydroquinone, Benzoyl Peroxide," Clindamycin""",cosmetic
+"""Clindamycin", Benzoyl Peroxide, Tretinoin, Hydrocortisone," Hydroquinone""",cosmetic
+"""Urea", Allantoin, Glycolic Acid, Salicylic Acid," Ammonium Lactate""",cosmetic
+"""Ammonium Lactate", Urea, Salicylic Acid, Allantoin," Glycolic Acid""",cosmetic
+"""Glycolic Acid", Salicylic Acid, Ammonium Lactate, Urea," Allantoin""",cosmetic
+"""Allantoin", Glycolic Acid, Urea, Ammonium Lactate," Salicylic Acid""",cosmetic
+"""Salicylic Acid", Ammonium Lactate, Allantoin, Glycolic Acid," Urea""",cosmetic
+"""Collagen", Elastin, Fibronectin, Laminin," Hyaluronic Acid""",cosmetic
+"""Hyaluronic Acid", Collagen, Laminin, Elastin," Fibronectin""",cosmetic
+"""Fibronectin", Laminin, Hyaluronic Acid, Collagen," Elastin""",cosmetic
+"""Elastin", Fibronectin, Collagen, Hyaluronic Acid," Laminin""",cosmetic
+"""Laminin", Hyaluronic Acid, Elastin, Fibronectin," Collagen""",cosmetic
+"""Chlorhexidine", Cetylpyridinium Chloride, Benzalkonium Chloride, Triclosan," Hydrogen Peroxide""",personal_care
+"""Hydrogen Peroxide", Chlorhexidine, Triclosan, Cetylpyridinium Chloride," Benzalkonium Chloride""",personal_care
+"""Benzalkonium Chloride", Triclosan, Hydrogen Peroxide, Chlorhexidine," Cetylpyridinium Chloride""",personal_care
+"""Cetylpyridinium Chloride", Benzalkonium Chloride, Chlorhexidine, Hydrogen Peroxide," Triclosan""",personal_care
+"""Triclosan", Hydrogen Peroxide, Cetylpyridinium Chloride, Benzalkonium Chloride," Chlorhexidine""",personal_care
+"""Sodium Cocoyl Glutamate", Disodium Cocoyl Glutamate, Sodium Lauroyl Glutamate, Potassium Cocoyl Glutamate," Sodium Cocoyl Alaninate""",personal_care
+"""Sodium Cocoyl Alaninate", Sodium Cocoyl Glutamate, Potassium Cocoyl Glutamate, Disodium Cocoyl Glutamate," Sodium Lauroyl Glutamate""",personal_care
+"""Sodium Lauroyl Glutamate", Potassium Cocoyl Glutamate, Sodium Cocoyl Alaninate, Sodium Cocoyl Glutamate," Disodium Cocoyl Glutamate""",personal_care
+"""Disodium Cocoyl Glutamate", Sodium Lauroyl Glutamate, Sodium Cocoyl Glutamate, Sodium Cocoyl Alaninate," Potassium Cocoyl Glutamate""",personal_care
+"""Potassium Cocoyl Glutamate", Sodium Cocoyl Alaninate, Disodium Cocoyl Glutamate, Sodium Lauroyl Glutamate," Sodium Cocoyl Glutamate""",personal_care
+"""Glycine", Alanine, Serine, Threonine," Cysteine""",personal_care
+"""Cysteine", Glycine, Threonine, Alanine," Serine""",personal_care
+"""Serine", Threonine, Cysteine, Glycine," Alanine""",personal_care
+"""Alanine", Serine, Glycine, Cysteine," Threonine""",personal_care
+"""Threonine", Cysteine, Alanine, Serine," Glycine""",personal_care
+"""Methylparaben", Ethylparaben, Propylparaben, Butylparaben," Benzylparaben""",personal_care
+"""Benzylparaben", Methylparaben, Butylparaben, Ethylparaben," Propylparaben""",personal_care
+"""Propylparaben", Butylparaben, Benzylparaben, Methylparaben," Ethylparaben""",personal_care
+"""Ethylparaben", Propylparaben, Methylparaben, Benzylparaben," Butylparaben""",personal_care
+"""Butylparaben", Benzylparaben, Ethylparaben, Propylparaben," Methylparaben""",personal_care
+"""Coco Glucoside", Decyl Glucoside, Lauryl Glucoside, Caprylyl Glucoside," Octyl Glucoside""",personal_care
+"""Octyl Glucoside", Coco Glucoside, Caprylyl Glucoside, Decyl Glucoside," Lauryl Glucoside""",personal_care
+"""Lauryl Glucoside", Caprylyl Glucoside, Octyl Glucoside, Coco Glucoside," Decyl Glucoside""",personal_care
+"""Decyl Glucoside", Lauryl Glucoside, Coco Glucoside, Octyl Glucoside," Caprylyl Glucoside""",personal_care
+"""Caprylyl Glucoside", Octyl Glucoside, Decyl Glucoside, Lauryl Glucoside," Coco Glucoside""",personal_care
